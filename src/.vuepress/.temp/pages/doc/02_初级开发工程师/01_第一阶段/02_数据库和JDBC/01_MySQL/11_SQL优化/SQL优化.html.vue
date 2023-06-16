@@ -1,0 +1,29 @@
+<template><div><ol>
+<li>查询SQL时最好不要用<code v-pre>select *</code>， 推荐使用具体的字段名</li>
+<li>避免在where子句中使用or， 业务中避免不了的话可以把语句分开写</li>
+<li>使用VARCHAR替代CHAR</li>
+<li>尽量使用数值来代替字符串类型，例如：0女、1男</li>
+<li>查询尽量避免返回大量数据， 可以采用limit分页</li>
+<li>使用explain分析你的SQL执行计划</li>
+<li>创建name字段的索引</li>
+<li>优化lke语句使用'关键字%'避免使用'%关键字%'导致索引失效</li>
+<li>字符串要使用单引号或者双引号区分与数字的区别，避免隐式转换导致索引失效</li>
+<li>索引不要太多，5个以内</li>
+<li>索引不适合建在有大量重复数据的字段上</li>
+<li>避免在where中对字段进行表达式操作， 避免使用!=或&lt;&gt;操作符</li>
+<li>去重distinct过滤字段要少</li>
+<li>where中使用默认值代替null</li>
+<li>使用批量插入减少事务触发，提升性能</li>
+<li>批量删除优化：大量删除数据时，为避免锁表报错，可以分批操作</li>
+<li>伪删除设计：不删除数据只修改数据标识来记录状态</li>
+<li>提高group by语句的效率：先过滤， 后分组</li>
+<li>where和order by中常出现的字段推荐创建索引</li>
+<li>删除冗余和重复的索引</li>
+<li>不要有超过5个以上的表连接</li>
+<li>inner join、left join、right join， 优先使用inner join， 使用left join左边表尽量小</li>
+<li>少用IN子查询</li>
+<li>尽量使用union all替代union</li>
+</ol>
+</div></template>
+
+

@@ -1,0 +1,36 @@
+<template><div><p>前后端分离属于软件架构的一种。其核心思想是把前端项目（<code v-pre>Node.js</code>实现的）和后端项目独立部署到不同的服务器上，前端项目在通过Ajax请求服务器端项目<code v-pre>Restful</code>接口实现数据交互。</p>
+<p>使用前后端分离架构的项目在项目组中往往配备前端工程师和后端工程师。后端工程师就是我们，对于我们我们来说，不需要在项目中编写页面了，写到控制器返回数据即可，最后把项目部署到服务器上。而前端项目中主要是一些<code v-pre>HTML</code>、<code v-pre>JavaScript</code>、图片等资源，如果希望能够独立运行就需要借助基于<code v-pre>Node.js</code>的一些前端框架。</p>
+<h2 id="交互形式" tabindex="-1"><a class="header-anchor" href="#交互形式" aria-hidden="true">#</a> 交互形式</h2>
+<p>在前后端分离架构中，后端只需要负责按照约定的数据格式向前端提供可调用的API服务即可。前后端之间通过HTTP请求进行交互，前端获取到数据后，进行页面的组装和渲染，最终返回给浏览器。</p>
+<figure><img src="@source/doc/02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/02_前后端分离/assets/Pasted_image_20230402230555.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2 id="代码组织形式" tabindex="-1"><a class="header-anchor" href="#代码组织形式" aria-hidden="true">#</a> 代码组织形式</h2>
+<p>在传统架构模式中，前后端代码存放于同一个代码库中，甚至是同一工程目录下。页面中还夹杂着后端代码。前后端工程师进行开发时，都必须把整个项目导入到开发工具中。而前后端分离模式在代码组织形式上有以下两种:</p>
+<h3 id="半分离" tabindex="-1"><a class="header-anchor" href="#半分离" aria-hidden="true">#</a> 半分离</h3>
+<p>前后端共用一个代码库，但是代码分别存放在两个工程中。后端不关心或很少关心前端元素的输出情况，前端不能独立进行开发和测试，项目中缺乏前后端 交互的测试用例。</p>
+<h3 id="分离" tabindex="-1"><a class="header-anchor" href="#分离" aria-hidden="true">#</a> 分离</h3>
+<p>前后端代码库分离，前端代码中有可以进行Mock测试(通过构造虚拟测试对 象以简化测试环境的方法)的伪后端，能支持前端的独立开发和测试。而后端代码中除了功能实现外，还有着详细的测试用例，以保证API的可用性，降低 集成风险</p>
+<figure><img src="@source/doc/02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/02_前后端分离/assets/Pasted_image_20230402231008.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2 id="数据接口规范流程" tabindex="-1"><a class="header-anchor" href="#数据接口规范流程" aria-hidden="true">#</a> 数据接口规范流程</h2>
+<p>在开发期间前后端共同商定好数据接口的交互形式和数据格式。然后实现前后端的并行开发，其中前端工程师再开发完成之后可以独自进行mock测试，而后端也可以使用接口测试平台进行接口自测，然后前后端一起进行功能联调并校验格式，最终进行自动化测试。</p>
+<figure><img src="@source/doc/02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/02_前后端分离/assets/Pasted_image_20230402231227.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2 id="前后端分离常用框架" tabindex="-1"><a class="header-anchor" href="#前后端分离常用框架" aria-hidden="true">#</a> 前后端分离常用框架</h2>
+<p>对于前端工程师来说常用的就是<code v-pre>Vue.js</code>和<code v-pre>React.js</code>和<code v-pre>angularJS</code>。他们是前端工程师常用的三大框架。</p>
+<ul>
+<li>Vue.js 小巧，灵活，功能却很强大。在市场上占有率更高，属于成熟稳定的框架。在课程中讲解此框架，后面的项目的前端页面也是基于Vue实现</li>
+<li>React相比Vue.js更新一些，近几年有追赶Vue.js的架势。更适合做移动项目。</li>
+<li>AngularJS相比Vue更加大量一些。只有在一些大型项目中才可能被使用。</li>
+</ul>
+<p>Vue是一个渐进式的JavaScript框架与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。另一方面，与现代化的工具以及各种支持类库结合使用时，Vue 也完全能够为复杂的单页应用提供驱动。</p>
+<figure><img src="@source/doc/02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/02_前后端分离/assets/Pasted_image_20230402231428.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<h2 id="前后端分离的好处" tabindex="-1"><a class="header-anchor" href="#前后端分离的好处" aria-hidden="true">#</a> 前后端分离的好处</h2>
+<h3 id="前后端明确的工作职责" tabindex="-1"><a class="header-anchor" href="#前后端明确的工作职责" aria-hidden="true">#</a> 前后端明确的工作职责</h3>
+<p>通过将开发团队前后端分离化，让前后端工程师只需要专注于前端或后端的开发工作，使得前后端工程师实现自治，培养其独特的技术特性，然后构建出一个全栈式的精益开发团队。</p>
+<h3 id="提升开发效率" tabindex="-1"><a class="header-anchor" href="#提升开发效率" aria-hidden="true">#</a> 提升开发效率</h3>
+<p>前后端分离以后，可以实现前后端代码的解耦，只要前后端沟通约定好应用所需接口以及接口参数，便可以开始并行开发，无需等待对方的开发工作结束。与此同时，即使需求发生变更，只要接口与数据格式不变，后端开发人员就不需要修改代码，只要前端进行变动即可。如此一来整个应用的开发效率必然会有质的提升。</p>
+<h3 id="完美应对复杂多变的前端需求" tabindex="-1"><a class="header-anchor" href="#完美应对复杂多变的前端需求" aria-hidden="true">#</a> 完美应对复杂多变的前端需求</h3>
+<p>如果开发团队能完成前后端分离的转型，打造优秀的前后端团队，开发独立化，让开发人员做到专注专精，开发能力必然会有所提升，能够完美应对各种复杂多变的前端需求。</p>
+<h3 id="增强代码可维护性" tabindex="-1"><a class="header-anchor" href="#增强代码可维护性" aria-hidden="true">#</a> 增强代码可维护性</h3>
+<p>前后端分离后，应用的代码不再是前后端混合，只有在运行期才会有调用依赖关系。</p>
+</div></template>
+
+

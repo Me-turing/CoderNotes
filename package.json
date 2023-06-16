@@ -1,0 +1,21 @@
+{
+  "name": "coder_notes",
+  "version": "2.0.0",
+  "description": "Coder Notes",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress build src",
+    "docs:clean-dev": "vuepress dev src --clean-cache",
+    "docs:dev": "vuepress dev src",
+    "docs:update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.63",
+    "@vuepress/plugin-shiki": "2.0.0-beta.63",
+    "vue": "^3.3.4",
+    "vuepress": "2.0.0-beta.63",
+    "vuepress-plugin-search-pro": "2.0.0-beta.226",
+    "vuepress-theme-hope": "2.0.0-beta.226"
+  }
+}

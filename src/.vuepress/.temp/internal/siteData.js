@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/coder-notes/\",\"lang\":\"zh-CN\",\"title\":\"\",\"description\":\"Coder Notes 程序员的自我修养\",\"head\":[[\"link\",{\"rel\":\"icon\",\"href\":\"/coder-notes/favicon.ico\"}]],\"locales\":{}}")

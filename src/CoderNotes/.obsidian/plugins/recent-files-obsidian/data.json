@@ -1,0 +1,159 @@
+{
+  "recentFiles": [
+    {
+      "basename": "作用域传参",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md"
+    },
+    {
+      "basename": "学习路线",
+      "path": "学习路线.md"
+    },
+    {
+      "basename": "其他语言",
+      "path": "12_其他语言/其他语言.md"
+    },
+    {
+      "basename": "AI方向",
+      "path": "11_AI方向/AI方向.md"
+    },
+    {
+      "basename": "大数据进阶",
+      "path": "10_大数据进阶/大数据进阶.md"
+    },
+    {
+      "basename": "手撕算法",
+      "path": "09_手撕算法/手撕算法.md"
+    },
+    {
+      "basename": "故障分析",
+      "path": "08_故障分析/故障分析.md"
+    },
+    {
+      "basename": "项目实践",
+      "path": "07_项目实践/项目实践.md"
+    },
+    {
+      "basename": "提高阶段",
+      "path": "06_提高阶段/提高阶段.md"
+    },
+    {
+      "basename": "高级开发工程师",
+      "path": "05_高级开发工程师/高级开发工程师.md"
+    },
+    {
+      "basename": "中级开发工程师",
+      "path": "04_中级开发工程师/中级开发工程师.md"
+    },
+    {
+      "basename": "计算机基础知识",
+      "path": "03_计算机基础知识/计算机基础知识.md"
+    },
+    {
+      "basename": "基础框架",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md"
+    },
+    {
+      "basename": "Mybatis配置",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md"
+    },
+    {
+      "basename": "常见注解",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/07_常见注解/常见注解.md"
+    },
+    {
+      "basename": "路径映射与RESTful风格",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/05_路径映射与RESTful风格/路径映射与RESTful风格.md"
+    },
+    {
+      "basename": "执行流程与三大组件",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md"
+    },
+    {
+      "basename": "MyBatis普通模式的开发",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/04_MyBatis普通模式的开发/MyBatis普通模式的开发.md"
+    },
+    {
+      "basename": "Log4j日志框架",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/08_Log4j日志框架/Log4j日志框架.md"
+    },
+    {
+      "basename": "SpringMVC",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/SpringMVC.md"
+    },
+    {
+      "basename": "请求参数的处理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md"
+    },
+    {
+      "basename": "乱码的处理",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/03_乱码的处理/乱码的处理.md"
+    },
+    {
+      "basename": "HTTP协议",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/02_HTTP协议/HTTP协议.md"
+    },
+    {
+      "basename": "初级开发工程师",
+      "path": "02_初级开发工程师/初级开发工程师.md"
+    },
+    {
+      "basename": "第一阶段",
+      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
+    },
+    {
+      "basename": "JavaEE技术",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md"
+    },
+    {
+      "basename": "Sping的事务管理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md"
+    },
+    {
+      "basename": "JDBCTemplate",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md"
+    },
+    {
+      "basename": "Bean的生命周期",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/03_Bean的生命周期/Bean的生命周期.md"
+    },
+    {
+      "basename": "Bean的自动注入",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/04_Bean的自动注入/Bean的自动注入.md"
+    },
+    {
+      "basename": "引入外部配置文件",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/05_引入外部配置文件/引入外部配置文件.md"
+    },
+    {
+      "basename": "注解方式管理Bean",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/06_注解方式管理Bean/注解方式管理Bean.md"
+    },
+    {
+      "basename": "基于XML管理Bean",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.md"
+    },
+    {
+      "basename": "Spring基础",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md"
+    },
+    {
+      "basename": "整合SpringMVC",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/09_整合SpringMVC/整合SpringMVC.md"
+    },
+    {
+      "basename": "Vue指令",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/08_Vue/02_Vue指令/Vue指令.md"
+    },
+    {
+      "basename": "初识Vue",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/08_Vue/01_初识Vue/初识Vue.md"
+    },
+    {
+      "basename": "ES6与Node",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/07_ES6与Node/ES6与Node.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}
