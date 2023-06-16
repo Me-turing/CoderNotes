@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,d as o}from"./app-a48529f7.js";const s={},c=o("p",null,"详见附件: ![[./assets/阿里规约.pdf]]",-1),n=[c];function r(a,l){return _(),t("div",null,n)}const i=e(s,[["render",r],["__file","阿里代码规范.html.vue"]]);export{i as default};
