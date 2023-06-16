@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://me-turing.github.io/CoderNotes/CoderNotes/sitemap.xml
