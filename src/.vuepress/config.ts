@@ -4,7 +4,7 @@ import { searchProPlugin } from "vuepress-plugin-search-pro";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/coder-notes/",
+  base: "/CoderNotes/",
 
   lang: "zh-CN",
   title: "",

@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://meturing.gitee.io/coder-notes/coder-notes/sitemap.xml
+Sitemap: https://me-turing.github.io/CoderNotes/CoderNotes/sitemap.xml

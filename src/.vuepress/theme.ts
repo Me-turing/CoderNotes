@@ -4,7 +4,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   //当前网站部署到的域名
-  hostname: "https://meturing.gitee.io/coder-notes/",
+  hostname: "https://me-turing.github.io/CoderNotes/",
 
   //文章显示的默认作者
   author: {
