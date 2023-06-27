@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2628ea44363ac9",
+        "id": "bf41a4202abf9d00",
         "type": "tabs",
         "children": [
           {
-            "id": "109cf11abba8add2",
+            "id": "95c1558f5c92ea17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "author: sqtan",
+                "query": "IOUtils",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md"
+                "file": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,53 +222,54 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7327be173ddc19a1",
+  "active": "95c1558f5c92ea17",
   "lastOpenFiles": [
-    "学习路线.md",
-    "12_其他语言/其他语言.md",
-    "11_AI方向/AI方向.md",
-    "10_大数据进阶/大数据进阶.md",
-    "09_手撕算法/手撕算法.md",
-    "08_故障分析/故障分析.md",
-    "07_项目实践/项目实践.md",
-    "06_提高阶段/提高阶段.md",
-    "05_高级开发工程师/高级开发工程师.md",
-    "04_中级开发工程师/中级开发工程师.md",
-    "03_计算机基础知识/计算机基础知识.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/07_常见注解/常见注解.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/05_路径映射与RESTful风格/路径映射与RESTful风格.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/04_MyBatis普通模式的开发/MyBatis普通模式的开发.md",
-    "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/08_Log4j日志框架/Log4j日志框架.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/SpringMVC.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/03_乱码的处理/乱码的处理.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/02_HTTP协议/HTTP协议.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/文件的下载.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/文件的上传.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
     "02_初级开发工程师/初级开发工程师.md",
-    "02_初级开发工程师/01_第一阶段/第一阶段.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/02_HttpServletRequest和HttpServlet/HttpServletRequest和HttpServletResponse.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/05_ServletContext和ServlectConfig/ServletContext和ServlectConfig.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/01_Tomcat/Tomcat.md",
+    "01_JavaSE阶段/B_进阶/06_网络编程/网络编程.md",
+    "01_JavaSE阶段/B_进阶/06_网络编程/02_模拟通讯/模拟通讯.md",
+    "01_JavaSE阶段/B_进阶/06_网络编程/01_初识网络编程/初识网络编程.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/assets/image-20230627112634659.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/assets/image-20230627112238310.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/assets/image-20230627110938932.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/assets/image-20230627110849969.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/assets/image-20230627105338352.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/assets/image-20230627104201059.png",
+    "01_JavaSE阶段/B_进阶/02_常用类/02_日期相关类/日期相关类.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/assets",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载",
+    "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/03_JQuery中的DOM编程/JQuery中的DOM编程.md",
+    "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/01_初识JQuery/初识JQuery.md",
+    "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/02_JQuery选择器/JQuery选择器.md",
+    "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/05_表单验证与正则表达式/表单验证与正则表达式.md",
+    "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/04_动画效果的使用/动画效果的使用.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets/image-20230627095905833.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets/image-20230627095515448.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets/image-20230627094431660.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets/image-20230627094402470.png",
+    "01_JavaSE阶段/B_进阶/04_IO/02_IO流/IO流.md",
+    "01_JavaSE阶段/B_进阶/07_JUnit_注解_枚举/00_测试的概念/测试的概念.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/04_常用插件/常用插件.md",
+    "01_JavaSE阶段/B_进阶/02_常用类/常用类.md",
+    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/06_Obsidian的搜索与查询/Obsidian的搜索与查询.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md",
+    "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/12_常见问题解决/常见问题解决.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/02_框架搭建与注意事项/框架搭建与注意事项.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.md",
+    "未命名.canvas",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传",
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.mmd",
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.mds",
-    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/02_MarkDown/assets/image-20230615204946929.png",
     "01_JavaSE阶段/C_开发必备工具/04_Obsidian/02_MarkDown/assets",
     "09_手撕算法",
-    "01_JavaSE阶段/B_进阶/05_多线程/02_创建多线程的方式/image/image_uZo5xDjRKr.png",
-    "01_JavaSE阶段/B_进阶/05_多线程/02_创建多线程的方式/image/image_IS2tT3H8iV.png",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/06_url-pattern的匹配规则与注解模式/image/image_vMR_o1YjsI.png",
     "12_其他语言",
-    "新建文件夹",
-    "11_AI方向",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613174735262.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613174607528.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613173936216.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613173730067.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613172730365.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613172703542.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/09_整合SpringMVC/assets"
+    "新建文件夹"
   ]
 }

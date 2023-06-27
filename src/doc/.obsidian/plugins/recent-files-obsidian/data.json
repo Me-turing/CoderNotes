@@ -1,8 +1,172 @@
 {
   "recentFiles": [
     {
+      "basename": "概念与安装",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md"
+    },
+    {
+      "basename": "文件的下载",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/文件的下载.md"
+    },
+    {
+      "basename": "文件的上传",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/文件的上传.md"
+    },
+    {
       "basename": "作用域传参",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md"
+    },
+    {
+      "basename": "初级开发工程师",
+      "path": "02_初级开发工程师/初级开发工程师.md"
+    },
+    {
+      "basename": "HttpServletRequest和HttpServletResponse",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/02_HttpServletRequest和HttpServlet/HttpServletRequest和HttpServletResponse.md"
+    },
+    {
+      "basename": "ServletContext和ServlectConfig",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/05_ServletContext和ServlectConfig/ServletContext和ServlectConfig.md"
+    },
+    {
+      "basename": "Tomcat",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/01_Tomcat/Tomcat.md"
+    },
+    {
+      "basename": "网络编程",
+      "path": "01_JavaSE阶段/B_进阶/06_网络编程/网络编程.md"
+    },
+    {
+      "basename": "模拟通讯",
+      "path": "01_JavaSE阶段/B_进阶/06_网络编程/02_模拟通讯/模拟通讯.md"
+    },
+    {
+      "basename": "初识网络编程",
+      "path": "01_JavaSE阶段/B_进阶/06_网络编程/01_初识网络编程/初识网络编程.md"
+    },
+    {
+      "basename": "日期相关类",
+      "path": "01_JavaSE阶段/B_进阶/02_常用类/02_日期相关类/日期相关类.md"
+    },
+    {
+      "basename": "JQuery中的DOM编程",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/03_JQuery中的DOM编程/JQuery中的DOM编程.md"
+    },
+    {
+      "basename": "初识JQuery",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/01_初识JQuery/初识JQuery.md"
+    },
+    {
+      "basename": "JQuery选择器",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/02_JQuery选择器/JQuery选择器.md"
+    },
+    {
+      "basename": "表单验证与正则表达式",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/05_表单验证与正则表达式/表单验证与正则表达式.md"
+    },
+    {
+      "basename": "动画效果的使用",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/04_JQuery/04_动画效果的使用/动画效果的使用.md"
+    },
+    {
+      "basename": "IO流",
+      "path": "01_JavaSE阶段/B_进阶/04_IO/02_IO流/IO流.md"
+    },
+    {
+      "basename": "测试的概念",
+      "path": "01_JavaSE阶段/B_进阶/07_JUnit_注解_枚举/00_测试的概念/测试的概念.md"
+    },
+    {
+      "basename": "常用插件",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/04_常用插件/常用插件.md"
+    },
+    {
+      "basename": "常用类",
+      "path": "01_JavaSE阶段/B_进阶/02_常用类/常用类.md"
+    },
+    {
+      "basename": "Obsidian的搜索与查询",
+      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/06_Obsidian的搜索与查询/Obsidian的搜索与查询.md"
+    },
+    {
+      "basename": "Mybatis配置",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md"
+    },
+    {
+      "basename": "常见问题解决",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/12_常见问题解决/常见问题解决.md"
+    },
+    {
+      "basename": "框架搭建与注意事项",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/02_框架搭建与注意事项/框架搭建与注意事项.md"
+    },
+    {
+      "basename": "搭建Mybatis项目环境",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md"
+    },
+    {
+      "basename": "基于XML管理Bean",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.md"
+    },
+    {
+      "basename": "路径问题",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/08_路径问题/路径问题.md"
+    },
+    {
+      "basename": "image-20230624124427116",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets/image-20230624124427116.png"
+    },
+    {
+      "basename": "image-20230624133346950",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets/image-20230624133346950.png"
+    },
+    {
+      "basename": "整合SpringMVC",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/09_整合SpringMVC/整合SpringMVC.md"
+    },
+    {
+      "basename": "Log4j日志框架",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/08_Log4j日志框架/Log4j日志框架.md"
+    },
+    {
+      "basename": "Mybatis缓存",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/08_Mybatis缓存/Mybatis缓存.md"
+    },
+    {
+      "basename": "新时间日期API",
+      "path": "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/06_新时间日期API/新时间日期API.md"
+    },
+    {
+      "basename": "JDBCTemplate",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md"
+    },
+    {
+      "basename": "SQL注入和预编译",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/03_SQL注入和预编译/SQL注入和预编译.md"
+    },
+    {
+      "basename": "Sping的事务管理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md"
+    },
+    {
+      "basename": "基础框架",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md"
+    },
+    {
+      "basename": "第一阶段",
+      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
+    },
+    {
+      "basename": "image-20230620133151505",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/assets/image-20230620133151505.png"
+    },
+    {
+      "basename": "Tomcat的配置与组件",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/01_Tomcat/04_Tomcat的配置与组件/Tomcat的配置与组件.md"
+    },
+    {
+      "basename": "Tomcat部署项目",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/01_Tomcat/03_Tomcat部署项目/Tomcat部署项目.md"
     },
     {
       "basename": "学习路线",
@@ -31,126 +195,6 @@
     {
       "basename": "项目实践",
       "path": "07_项目实践/项目实践.md"
-    },
-    {
-      "basename": "提高阶段",
-      "path": "06_提高阶段/提高阶段.md"
-    },
-    {
-      "basename": "高级开发工程师",
-      "path": "05_高级开发工程师/高级开发工程师.md"
-    },
-    {
-      "basename": "中级开发工程师",
-      "path": "04_中级开发工程师/中级开发工程师.md"
-    },
-    {
-      "basename": "计算机基础知识",
-      "path": "03_计算机基础知识/计算机基础知识.md"
-    },
-    {
-      "basename": "基础框架",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md"
-    },
-    {
-      "basename": "Mybatis配置",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md"
-    },
-    {
-      "basename": "常见注解",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/07_常见注解/常见注解.md"
-    },
-    {
-      "basename": "路径映射与RESTful风格",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/05_路径映射与RESTful风格/路径映射与RESTful风格.md"
-    },
-    {
-      "basename": "执行流程与三大组件",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md"
-    },
-    {
-      "basename": "MyBatis普通模式的开发",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/04_MyBatis普通模式的开发/MyBatis普通模式的开发.md"
-    },
-    {
-      "basename": "Log4j日志框架",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/08_Log4j日志框架/Log4j日志框架.md"
-    },
-    {
-      "basename": "SpringMVC",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/SpringMVC.md"
-    },
-    {
-      "basename": "请求参数的处理",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md"
-    },
-    {
-      "basename": "乱码的处理",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/03_乱码的处理/乱码的处理.md"
-    },
-    {
-      "basename": "HTTP协议",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/02_HTTP协议/HTTP协议.md"
-    },
-    {
-      "basename": "初级开发工程师",
-      "path": "02_初级开发工程师/初级开发工程师.md"
-    },
-    {
-      "basename": "第一阶段",
-      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
-    },
-    {
-      "basename": "JavaEE技术",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md"
-    },
-    {
-      "basename": "Sping的事务管理",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md"
-    },
-    {
-      "basename": "JDBCTemplate",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md"
-    },
-    {
-      "basename": "Bean的生命周期",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/03_Bean的生命周期/Bean的生命周期.md"
-    },
-    {
-      "basename": "Bean的自动注入",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/04_Bean的自动注入/Bean的自动注入.md"
-    },
-    {
-      "basename": "引入外部配置文件",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/05_引入外部配置文件/引入外部配置文件.md"
-    },
-    {
-      "basename": "注解方式管理Bean",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/06_注解方式管理Bean/注解方式管理Bean.md"
-    },
-    {
-      "basename": "基于XML管理Bean",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.md"
-    },
-    {
-      "basename": "Spring基础",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md"
-    },
-    {
-      "basename": "整合SpringMVC",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/09_整合SpringMVC/整合SpringMVC.md"
-    },
-    {
-      "basename": "Vue指令",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/08_Vue/02_Vue指令/Vue指令.md"
-    },
-    {
-      "basename": "初识Vue",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/08_Vue/01_初识Vue/初识Vue.md"
-    },
-    {
-      "basename": "ES6与Node",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/07_ES6与Node/ES6与Node.md"
     }
   ],
   "omittedPaths": [],
