@@ -43,11 +43,11 @@ DAO(Data Access Object)是一个数据访问接口，数据访问：顾名思义
 
 创建项目 : 导入各个层级的接口和页面之后的项目
 
-![](image/image_Dc-2ijLh9p.png)
+![](./image/image_Dc-2ijLh9p.png)
 
 添加jar包
 
-![](image/image_Hf-j3q-nCX.png)
+![](./image/image_Hf-j3q-nCX.png)
 
 创建包
 

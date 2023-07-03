@@ -23,7 +23,7 @@ index: true
 
 第一范式的合理遵循需要根据系统的实际需求来定。比如某些数据库系统中需要用到“地址”这个属性，本来直接将“地址”属性设计成一个数据库表的字段就行。但是如果系统经常会访问“地址”属性中的“城市”部分，那么就非要将“地址”这个属性重新拆分为省份、城市、详细地址等多个部分进行存储，这样在对地址中某一部分操作的时候将非常方便。这样设计才算满足了数据库的第一范式，如下表所示。
 
-![](image/image_TMrbjXDbQE.png)
+![](./image/image_TMrbjXDbQE.png)
 
 ### 第二范式：确保表中的每列都和主键相关
 
@@ -31,13 +31,13 @@ index: true
 
 比如要设计一个订单信息表，因为订单中可能会有多种商品，所以要将订单编号和商品编号作为数据库表的联合主键，如下表所示
 
-![](image/image_j9Z0Uev-PE.png)
+![](./image/image_j9Z0Uev-PE.png)
 
 这样就产生一个问题：这个表中是以订单编号和商品编号作为联合主键。这样在该表中商品名称、单位、商品价格等信息不与该表的主键相关，而仅仅是与商品编号相关。所以在这里违反了第二范式的设计原则。
 
 而如果把这个订单信息表进行拆分，把商品信息分离到另一个表中，把订单项目表也分离到另一个表中，就非常完美了。如下所示
 
-![](image/image_ka5khfg9Wm.png)
+![](./image/image_ka5khfg9Wm.png)
 
 **这样设计，在很大程度上减小了数据库的冗余。如果要获取订单的商品信息，使用商品编号到商品信息表中查询即可 **
 
@@ -47,7 +47,7 @@ index: true
 
 比如在设计一个订单数据表的时候，可以将客户编号作为一个外键和订单表建立相应的关系。而不可以在订单表中添加关于客户其它信息（比如姓名、所属公司等）的字段。如下面这两个表所示的设计就是一个满足第三范式的数据库表。
 
-![](image/image_AVAgcoQz8v.png)
+![](./image/image_AVAgcoQz8v.png)
 
 这样在查询订单信息的时候，就可以使用客户编号来引用客户信息表中的记录，也不必在订单信息表中多次输入客户信息的内容，减小了数据冗余
 
@@ -57,13 +57,13 @@ index: true
 
 将一的一方作为主表，多的一方作为从表，在从表中指定一个字段作为外键，指向主表的主键
 
-![](image/image_UMYnZ3g7g9.png)
+![](./image/image_UMYnZ3g7g9.png)
 
 ### 多对多
 
 因为两张表都是多的一方，所以在两张表中都无法创建外键，所以需要新创建一张中间表，在中间表中定义两个字段，这俩字段分别作为外键指向两张表各自的主键
 
-![](image/image_PATfK6e2xl.png)
+![](./image/image_PATfK6e2xl.png)
 
 ### 一对一
 
@@ -115,7 +115,7 @@ select [字段,字段,字段] from a [inner] join b on 连接条件 [ where 其�
 
 #####  A
 
-![](image/image_QKoGOKM1jO.png)
+![](./image/image_QKoGOKM1jO.png)
 
 **左边表中的所有数据**，右边表中与左表关联数据（左边有右边没有的使用NULL填充）
 ```sql
@@ -124,7 +124,7 @@ select 字段 from 表1 left outer join 表2 on 关联条件
 
 ##### A-A∩B
 
-![](image/image_ZODT0AhWbW.png)
+![](./image/image_ZODT0AhWbW.png)
 
 **左表特有的数据**
 
@@ -136,7 +136,7 @@ select 字段 from 表1 left outer join 表2 on 关联条件 where 右表.key = 
 
 ##### B
 
-![](image/image_DyGGxFrltb.png)
+![](./image/image_DyGGxFrltb.png)
 
 **右边表中的所有数据**，左边表中与右表关联数据（右边有左边没有的使用NULL填充）
 
@@ -146,7 +146,7 @@ select 字段 from 表1 right outer join 表2 on 关联条件
 
 ##### B-A∩B
 
-![](image/image_sUYH336Oo2.png)
+![](./image/image_sUYH336Oo2.png)
 
 右表特有的数据
 
@@ -160,19 +160,19 @@ UNION 操作符用于合并两个或多个 SELECT 语句的结果集。
 
 ##### A∪B
 
-![](image/image_wOFoTN_T83.png)
+![](./image/image_wOFoTN_T83.png)
 
 可以使用UNION关键字将左外联和右外联合并起来
 
-![](image/image_AHzSscyVgZ.png)
+![](./image/image_AHzSscyVgZ.png)
 
 ##### A∪B - A∩B
 
-![](image/image_GQ--nh1ART.png)
+![](./image/image_GQ--nh1ART.png)
 
 可以使用UNION关键字将左独和右独合并起来
 
-![](image/image_EWpfzAbAvh.png)
+![](./image/image_EWpfzAbAvh.png)
 
 ### 自连接查询
 
@@ -180,7 +180,7 @@ UNION 操作符用于合并两个或多个 SELECT 语句的结果集。
 
 例如：查询员工的编号，姓名，薪资和他领导的编号，姓名，薪资
 
-![](image/image_TpnVn1Fi7-.png)
+![](./image/image_TpnVn1Fi7-.png)
 
 ```sql
 //将emp表分别以别名的方式声明employee员工 manager 领导
@@ -191,7 +191,7 @@ manager.ename '领导姓名',manager.salary '领导薪资'
 FROM emp employee,emp manager WHERE employee.mgr = manager.id
 ```
 
-![](image/image_D9br_qWIWm.png)
+![](./image/image_D9br_qWIWm.png)
 
 ## 子查询
 

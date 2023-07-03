@@ -18,11 +18,11 @@ index: true
 ### 创建项目并引入JDBC jar包
 
 1.  创建项目和模块.将jar文件放入项目的lib目录中
-    ![](image/image_Rtxr67BN3t.png)
+    ![](./image/image_Rtxr67BN3t.png)
 2.  给当前项目添加依赖(告诉当前项目/模块可以依赖jar文件中的代码)
-    ![](image/image_U2ReBUV-S2.png)
+    ![](./image/image_U2ReBUV-S2.png)
 3.  点击OK
-    ![](image/image_GJ0i0pCQkX.png)
+    ![](./image/image_GJ0i0pCQkX.png)
 
 ### 简单使用JDBC
 
@@ -83,7 +83,7 @@ public class TestDemo01 {
 
 我们查看Driver的源代码时,发现: 该类内部有一个静态代码块,在代码块中就是在实例化一个驱动并在驱动中心注册.静态代码块会在类进入内存时执行,也就是说,我们只要让该类字节码进入内存,就会自动完成注册,不需要我们手动去new
 
-![](image/image_NeNJyTzuiH.png)
+![](./image/image_NeNJyTzuiH.png)
 
 所以我们在代码中直接使用反射,通过`Class.forName("com.mysql.jdbc.Driver")`,加载该类进入内存即可
 

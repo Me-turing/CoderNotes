@@ -19,6 +19,6 @@ index: true
 
 [JQuery与Ajax实现](03_JQuery与Ajax实现/JQuery与Ajax实现.md)
 
-[Jsonp跨域处理](04_Jsonp跨域处理/Jsonp跨域处理.md)
+[跨域处理](04_跨域处理/跨域处理.md)
 
 [三级联动案例开发](05_三级联动案例开发/三级联动案例开发.md)

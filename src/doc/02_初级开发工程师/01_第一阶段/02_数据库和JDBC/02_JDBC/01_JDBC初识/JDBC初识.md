@@ -17,11 +17,11 @@ index: true
 
 **JDBC(Java DataBase Connectivity,  Java数据库连接)**,是一种用于执行SQL语句的Java API，为多种关系数据库提供统一访问,它由一组用Java语言编写的类和接口组成
 
-![](image/image_5yeVv_T_-d.png)
+![](./image/image_5yeVv_T_-d.png)
 
 有了JDBC，程序员只需用JDBC API写一个程序，就可访问所有数据库。
 
-![](image/image_rLttWrIOwc.png)
+![](./image/image_rLttWrIOwc.png)
 
 ## Sun公司、数据库厂商、程序员三方关系
 

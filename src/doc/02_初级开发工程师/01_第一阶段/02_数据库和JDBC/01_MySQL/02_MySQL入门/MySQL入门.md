@@ -23,7 +23,7 @@ SQL是由IBM公司在1974\~1979年之间根据E.J.Codd发表的关系数据库�
 
 官方说明文档: ![[assets/mysql.chm]]
 
-![](image/image_c7OUUwHslN.png)
+![](./image/image_c7OUUwHslN.png)
 
 ## SQL语言分类
 

@@ -6,7 +6,11 @@ on:
   push:
     branches:
       - main
-
+      
+# 解决方案
+permissions:
+  contents: write
+  
 # 任务
 jobs:
   build-and-deploy:

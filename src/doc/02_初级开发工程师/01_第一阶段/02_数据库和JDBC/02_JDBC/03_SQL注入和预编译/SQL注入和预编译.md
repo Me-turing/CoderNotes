@@ -169,11 +169,11 @@ public class TestDemo01 {
 
 #### 正常登录
 
-![](image/image_kkLmtNTSH6.png)
+![](./image/image_kkLmtNTSH6.png)
 
 #### SQL注入
 
-![](image/image_dcp_GfgxgL.png)
+![](./image/image_dcp_GfgxgL.png)
 
 ### 注入原理
 
@@ -210,7 +210,7 @@ prepareStatment对象在set方法上,会对单引号进行转译处理,也就是
 
 当客户端发送一条sql语句给DBMS时,MySQL的执行流程如下图
 
-![](image/image_0wPDHMJ4L1.png)
+![](./image/image_0wPDHMJ4L1.png)
 
 1.  客户端向服务器端发送SQL命令
 2.  服务器端连接模块连接并验证
@@ -317,7 +317,7 @@ public class TestPreparedSstatement {
 
 尝试SQL注入
 
-![](image/image_wXiF2TmHbH.png)
+![](./image/image_wXiF2TmHbH.png)
 
 ## 重构CRUD
 

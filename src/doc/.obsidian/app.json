@@ -11,7 +11,7 @@
   "newFileFolderPath": "00_InBox",
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Tabloid",

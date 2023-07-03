@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6a2628ea44363ac9",
+        "id": "e054be19e5123a92",
         "type": "tabs",
         "children": [
           {
-            "id": "109cf11abba8add2",
+            "id": "1ca7359a3af59a12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "author: sqtan",
+                "query": "跨域",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md"
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,53 +222,54 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7327be173ddc19a1",
+  "active": "1ca7359a3af59a12",
   "lastOpenFiles": [
-    "学习路线.md",
-    "12_其他语言/其他语言.md",
-    "11_AI方向/AI方向.md",
-    "10_大数据进阶/大数据进阶.md",
-    "09_手撕算法/手撕算法.md",
-    "08_故障分析/故障分析.md",
-    "07_项目实践/项目实践.md",
-    "06_提高阶段/提高阶段.md",
-    "05_高级开发工程师/高级开发工程师.md",
-    "04_中级开发工程师/中级开发工程师.md",
-    "03_计算机基础知识/计算机基础知识.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/14_异常处理/异常处理.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/文件的下载.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/拦截器.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code.zip",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_04/target/SpringMVC_04-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.3.19.jar",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_01/target/SpringMVC_01-1.0-SNAPSHOT/static/img/img01.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/00_Code/SpringMVC_01/src/main/webapp/static/img/img01.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/assets/image-20230629163525188.gif",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/SpringMVC.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/06_Ajax/04_跨域处理/跨域处理.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/06_Ajax/Ajax.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/assets/image-20230630174644136.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/assets/image-20230630172904263.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/assets/image-20230630165813419.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/assets/image-20230630164246694.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/assets/image-20230630162134996.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/assets/image-20230630162558083.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/assets/image-20230630163720512.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md",
+    "01_JavaSE阶段/B_进阶/02_常用类/02_日期相关类/日期相关类.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/08_响应处理/响应处理.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/07_常见注解/常见注解.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/05_路径映射与RESTful风格/路径映射与RESTful风格.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/04_MyBatis普通模式的开发/MyBatis普通模式的开发.md",
-    "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/08_Log4j日志框架/Log4j日志框架.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/SpringMVC.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/03_乱码的处理/乱码的处理.md",
+    "01_JavaSE阶段/B_进阶/01_异常处理/异常处理.md",
+    "01_JavaSE阶段/B_进阶/07_JUnit_注解_枚举/02_注解/注解.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/06_EL表达式的使用/EL表达式的使用.md",
+    "01_JavaSE阶段/B_进阶/JavaSE进阶.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/06_Ajax/03_JQuery与Ajax实现/JQuery与Ajax实现.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/04_JSP指令标签/JSP指令标签.md",
+    "01_JavaSE阶段/B_进阶/03_集合/04_List接口/List接口.md",
+    "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/05_Optional类/Optional类.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/05_JSP的内置对象/JSP的内置对象.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/02_HTTP协议/HTTP协议.md",
-    "02_初级开发工程师/初级开发工程师.md",
-    "02_初级开发工程师/01_第一阶段/第一阶段.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.mmd",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/02_基于XML管理Bean/基于XML管理Bean.mds",
-    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/02_MarkDown/assets/image-20230615204946929.png",
-    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/02_MarkDown/assets",
-    "09_手撕算法",
-    "01_JavaSE阶段/B_进阶/05_多线程/02_创建多线程的方式/image/image_uZo5xDjRKr.png",
-    "01_JavaSE阶段/B_进阶/05_多线程/02_创建多线程的方式/image/image_IS2tT3H8iV.png",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/06_url-pattern的匹配规则与注解模式/image/image_vMR_o1YjsI.png",
-    "12_其他语言",
-    "新建文件夹",
-    "11_AI方向",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613174735262.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613174607528.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613173936216.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613173730067.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613172730365.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets/image-20230613172703542.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/assets",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/09_整合SpringMVC/assets"
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/08_AOP面向切面编程/AOP面向切面编程.md",
+    "01_JavaSE阶段/B_进阶/08_反射/02_常用API/常用API.md",
+    "未命名.canvas"
   ]
 }
