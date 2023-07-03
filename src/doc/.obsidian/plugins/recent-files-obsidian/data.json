@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringMVC",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/SpringMVC.md"
+    },
+    {
       "basename": "其他注解",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "image-20230629163525188",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/assets/image-20230629163525188.gif"
-    },
-    {
-      "basename": "SpringMVC",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/SpringMVC.md"
     },
     {
       "basename": "跨域处理",
