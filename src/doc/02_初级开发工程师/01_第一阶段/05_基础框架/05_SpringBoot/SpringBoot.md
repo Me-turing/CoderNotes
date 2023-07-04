@@ -21,4 +21,3 @@ index: true
 [SpringBoot项目配置与结构](04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md)
 
 [SpringBoot整合组件](05_SpringBoot整合组件/SpringBoot整合组件.md)
-
