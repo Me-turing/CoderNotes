@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e054be19e5123a92",
+        "id": "050da74eb5fb2f51",
         "type": "tabs",
         "children": [
           {
-            "id": "1ca7359a3af59a12",
+            "id": "d4be5d742da2d6eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f585a1b98fa120df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -62,10 +49,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "跨域",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabeticalReverse"
               }
@@ -212,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -235,24 +222,33 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "1ca7359a3af59a12",
+  "active": "d4be5d742da2d6eb",
   "lastOpenFiles": [
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets/image-20230704165523850.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets/image-20230704164726832.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets/image-20230704164044923.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets/image-20230704163917940.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets/image-20230704163857074.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets/image-20230704160226041.png",
+    "02_初级开发工程师/01_第一阶段/第一阶段.md",
+    "02_初级开发工程师/初级开发工程师.md",
+    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/01_基本操作/assets/image-20230421104936120.png",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/01_基本操作/基本操作.md",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/06_导航/导航.md",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md",
+    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/04_Obsidian技巧与设置/Obsidian技巧与设置.md",
+    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/06_Obsidian的搜索与查询/Obsidian的搜索与查询.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets/image-20230704141012629.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704135356493.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704135103873.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704134659062.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704134610193.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704134517191.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704134506578.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704133522235.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704133321880.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704133243984.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets/image-20230704114652068.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/assets",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot部署方式/SpringBoot快速部署.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/12_Spring日志框架和测试支持/Spring日志框架和测试支持.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/11_零XML配置事务/零XML配置事务.md",
@@ -264,9 +260,8 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合组件",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
     "01_JavaSE阶段/C_开发必备工具/02_Maven/04_继承与聚合/继承与聚合.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot部署方式/assets",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/01_SpringBoot简介/SpringBoot简介.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/01_SpringBoot简介/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/00_Code/MybatisPlusDemo/HELP.md",
@@ -275,14 +270,6 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/14_异常处理/异常处理.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/12_文件的下载/文件的下载.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/拦截器.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/06_Ajax/04_跨域处理/跨域处理.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/06_Ajax/Ajax.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md",
-    "01_JavaSE阶段/B_进阶/02_常用类/02_日期相关类/日期相关类.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/08_响应处理/响应处理.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/07_常见注解/常见注解.md",
     "未命名.canvas"
   ]
 }

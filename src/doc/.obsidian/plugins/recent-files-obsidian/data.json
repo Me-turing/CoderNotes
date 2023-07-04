@@ -5,12 +5,52 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md"
     },
     {
+      "basename": "第一阶段",
+      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
+    },
+    {
+      "basename": "初级开发工程师",
+      "path": "02_初级开发工程师/初级开发工程师.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "image-20230421104936120",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/01_基本操作/assets/image-20230421104936120.png"
+    },
+    {
+      "basename": "基本操作",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/01_基本操作/基本操作.md"
+    },
+    {
+      "basename": "导航",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/06_导航/导航.md"
+    },
+    {
+      "basename": "IDEA",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md"
+    },
+    {
+      "basename": "Obsidian技巧与设置",
+      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/04_Obsidian技巧与设置/Obsidian技巧与设置.md"
+    },
+    {
+      "basename": "Obsidian的搜索与查询",
+      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/06_Obsidian的搜索与查询/Obsidian的搜索与查询.md"
+    },
+    {
+      "basename": "SpringBoot",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
+    },
+    {
       "basename": "SpringBoot启动器原理分析",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md"
     },
     {
       "basename": "SpringBoot快速部署",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot部署方式/SpringBoot快速部署.md"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md"
     },
     {
       "basename": "Spring基础",
@@ -33,20 +73,16 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合组件/SpringBoot整合组件.md"
     },
     {
-      "basename": "SpringBoot",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
-    },
-    {
       "basename": "image-20230703153640070",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot部署方式/assets/image-20230703153640070.png"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/assets/image-20230703153640070.png"
     },
     {
       "basename": "image-20230703152249768",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot部署方式/assets/image-20230703152249768.png"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/assets/image-20230703152249768.png"
     },
     {
       "basename": "image-20230703151930514",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot部署方式/assets/image-20230703151930514.png"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/assets/image-20230703151930514.png"
     },
     {
       "basename": "继承与聚合",
@@ -163,42 +199,6 @@
     {
       "basename": "JSP的内置对象",
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/05_JSP的内置对象/JSP的内置对象.md"
-    },
-    {
-      "basename": "HTTP协议",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/02_HTTP协议/HTTP协议.md"
-    },
-    {
-      "basename": "AOP面向切面编程",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/08_AOP面向切面编程/AOP面向切面编程.md"
-    },
-    {
-      "basename": "常用API",
-      "path": "01_JavaSE阶段/B_进阶/08_反射/02_常用API/常用API.md"
-    },
-    {
-      "basename": "初识多线程",
-      "path": "01_JavaSE阶段/B_进阶/05_多线程/01_初识多线程/初识多线程.md"
-    },
-    {
-      "basename": "文件的上传",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/文件的上传.md"
-    },
-    {
-      "basename": "请求转发和响应重定向",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/07_请求转发和响应重定向/请求转发和响应重定向.md"
-    },
-    {
-      "basename": "image-20230629154556862",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/assets/image-20230629154556862.png"
-    },
-    {
-      "basename": "image-20230629134519255",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/assets/image-20230629134519255.gif"
-    },
-    {
-      "basename": "image-20230629155209472",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/assets/image-20230629155209472.png"
     }
   ],
   "omittedPaths": [],
