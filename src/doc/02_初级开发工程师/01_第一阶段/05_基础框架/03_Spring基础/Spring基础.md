@@ -33,3 +33,6 @@ index: true
 
 [Sping的事务管理](10_Spring的事务管理/Sping的事务管理.md)
 
+[零XML配置事务](11_零XML配置事务/零XML配置事务.md)
+
+[Spring日志框架和测试支持](12_Spring日志框架和测试支持/Spring日志框架和测试支持.md)
