@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringBoot整合组件",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合组件/SpringBoot整合组件.md"
+    },
+    {
       "basename": "SpringBoot项目配置与结构",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md"
+    },
+    {
+      "basename": "SpringBoot快速部署",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md"
     },
     {
       "basename": "第一阶段",
@@ -49,10 +57,6 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md"
     },
     {
-      "basename": "SpringBoot快速部署",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md"
-    },
-    {
       "basename": "Spring基础",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "Sping的事务管理",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md"
-    },
-    {
-      "basename": "SpringBoot整合组件",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合组件/SpringBoot整合组件.md"
     },
     {
       "basename": "image-20230703153640070",

@@ -120,16 +120,77 @@ number2: [1,2,3,4]
 
 配置文件允许存放在以下位置:
 
-当前项目根目录中
+1   当前项目根目录中:
+![](assets/image-20230705103045364.png)
+
+2  当前项目根目录中的`/config`目录下
+![](assets/image-20230705103156211.png)
+
+3  当前项目的resources目录下
+![](assets/image-20230705103259737.png)
+
+4  当前项目的`resources/config`目录下
+![](assets/image-20230705103236575.png)
 
 ##### 优先级
 
+`项目根目录/config`  >  `项目根目录`  >  `resources/config` > `resources`
 
+即 : SpringBoot在启动时会优先按照上述的路径优先级进行配置文件的扫描,优先级高的配置优先加载,且相同的参数配置无法被优先级低的配置顶替
 
+##### 应用场景
 
+> application 配置文件主要用于 Spring Boot 项目的自动化配置。
 
 ## bootstrap配置文件
 
+bootstrap 是应用程序的父上下文，也就是说 **bootstrap 加载优先于 applicaton**。
+bootstrap 主要用于从额外的资源来加载配置信息，还可以在本地外部配置文件中解密属性。
+
+bootstrap与application这两个上下文共用一个环境，它是任何Spring应用程序的外部属性的来源。bootstrap 里面的属性会优先加载，它们默认也不能被本地相同配置覆盖。
+
+### bootstrap配置文件特征
+
+1. boostrap 由父 ApplicationContext 加载，比 applicaton 优先加载。
+2. boostrap 里面的属性不能被覆盖。
+
+### 应用场景
+
+1. 使用 SpringCloudConfig 配置中心时，这时需要在 bootstrap 配置文件中添加连接到配置中心的配置属性来加载外部配置中心的配置信息。
+2. 一些固定的不能被覆盖的属性。
+3. 一些加密/解密的场景。
 
 ## SpringBoot项目结构
+
+基本上SpringBoot的目录结构如下:
+
+```txt
+- 项目名
+  |- src
+     |- main
+        |- java
+        |  |- [Java代码]
+        |- resources
+        |  |- public (公共资源，对外公开的内容)
+        |  |- static (静态资源，图片、js、css)
+        |  |     |- js
+        |  |     |  |- jquery.js (访问地址: http://ip:port/js/jquery.js)
+        |  |- templates (FreeMarker和Thymeleaf页面所在目录)
+        |- webapp (仅在使用JSP时存在)
+           |- WEB-INF
+```
+
+其中需要注意的是: 
+
+public目录与static目录,在访问时,无需再次说明目录名(可以省略)
+![](assets/image-20230705105338147.png)
+![](assets/image-20230705105442065.png)
+
+webapp目录默认情况下在新版的SpringBoot初始化时时没有的,只有在使用JSP文件时需要创建使用可以参考如下配置:
+
+在项目设置中,设置当前模块的web资源目录为webapp目录就行
+![](assets/image-20230705111501768.png)
+
+设置成功后,webapp目录上将又小蓝点标记
+![](assets/image-20230705111537110.png)
 

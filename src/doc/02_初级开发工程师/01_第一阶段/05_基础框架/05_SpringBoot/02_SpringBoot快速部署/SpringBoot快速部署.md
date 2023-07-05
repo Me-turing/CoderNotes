@@ -190,3 +190,7 @@ public class MyController {
 访问: `localhost:8080/geMyFirstController`
 
 ![](assets/image-20230704092031812.png)
+
+## 项目结构
+
+可以参考[SpringBoot项目结构](../04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md#SpringBoot项目结构)
