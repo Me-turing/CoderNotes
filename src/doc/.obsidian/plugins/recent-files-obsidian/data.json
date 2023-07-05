@@ -1,12 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "SpringBoot整合组件",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合组件/SpringBoot整合组件.md"
+      "basename": "过滤器的应用案例",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/03_过滤器的应用案例/过滤器的应用案例.md"
+    },
+    {
+      "basename": "请求参数的处理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md"
+    },
+    {
+      "basename": "SpringBoot",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
+    },
+    {
+      "basename": "SpringBoot整合Mybatis",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis/SpringBoot整合Mybatis.md"
+    },
+    {
+      "basename": "SpringBoot整合PageHelper",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合PageHelper/SpringBoot整合PageHelper.md"
+    },
+    {
+      "basename": "SpringBoot整合Logback",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/SpringBoot整合Logback.md"
+    },
+    {
+      "basename": "Mybatis配置",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md"
+    },
+    {
+      "basename": "搭建Mybatis项目环境",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md"
+    },
+    {
+      "basename": "Mybatis缓存",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/08_Mybatis缓存/Mybatis缓存.md"
     },
     {
       "basename": "SpringBoot项目配置与结构",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md"
+    },
+    {
+      "basename": "Mybatis代理模式的开发",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/05_Mybatis代理模式的开发/Mybatis代理模式的开发.md"
+    },
+    {
+      "basename": "Mybatis动态SQL",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/06_Mybatis动态SQL/Mybatis动态SQL.md"
+    },
+    {
+      "basename": "Mybatis逆向工程与其他配置",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/09_Mybatis逆向工程与其他配置/Mybatis逆向工程与其他配置.md"
+    },
+    {
+      "basename": "Mybatis多表查询",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/07_Mybatis多表查询/Mybatis多表查询.md"
     },
     {
       "basename": "SpringBoot快速部署",
@@ -47,10 +95,6 @@
     {
       "basename": "Obsidian的搜索与查询",
       "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/06_Obsidian的搜索与查询/Obsidian的搜索与查询.md"
-    },
-    {
-      "basename": "SpringBoot",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
     },
     {
       "basename": "SpringBoot启动器原理分析",
@@ -145,10 +189,6 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md"
     },
     {
-      "basename": "请求参数的处理",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md"
-    },
-    {
       "basename": "日期相关类",
       "path": "01_JavaSE阶段/B_进阶/02_常用类/02_日期相关类/日期相关类.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "常见注解",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/07_常见注解/常见注解.md"
-    },
-    {
-      "basename": "路径映射与RESTful风格",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/05_路径映射与RESTful风格/路径映射与RESTful风格.md"
-    },
-    {
-      "basename": "异常处理",
-      "path": "01_JavaSE阶段/B_进阶/01_异常处理/异常处理.md"
-    },
-    {
-      "basename": "注解",
-      "path": "01_JavaSE阶段/B_进阶/07_JUnit_注解_枚举/02_注解/注解.md"
-    },
-    {
-      "basename": "EL表达式的使用",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/06_EL表达式的使用/EL表达式的使用.md"
-    },
-    {
-      "basename": "JavaSE进阶",
-      "path": "01_JavaSE阶段/B_进阶/JavaSE进阶.md"
-    },
-    {
-      "basename": "JQuery与Ajax实现",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/06_Ajax/03_JQuery与Ajax实现/JQuery与Ajax实现.md"
-    },
-    {
-      "basename": "JSP指令标签",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/04_JSP指令标签/JSP指令标签.md"
-    },
-    {
-      "basename": "List接口",
-      "path": "01_JavaSE阶段/B_进阶/03_集合/04_List接口/List接口.md"
-    },
-    {
-      "basename": "Optional类",
-      "path": "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/05_Optional类/Optional类.md"
-    },
-    {
-      "basename": "JSP的内置对象",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/05_JSP的内置对象/JSP的内置对象.md"
     }
   ],
   "omittedPaths": [],
