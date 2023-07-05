@@ -40,7 +40,7 @@ features:
   - title: 高级开发工程师
     icon: strong
     details: 等待补充
-    link: /doc/05_高级级开发工程师
+    link: /doc/05_高级开发工程师
 
   - title: 架构师
     icon: license
