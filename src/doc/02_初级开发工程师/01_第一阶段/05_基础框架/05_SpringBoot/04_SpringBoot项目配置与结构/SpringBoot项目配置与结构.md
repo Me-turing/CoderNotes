@@ -14,7 +14,7 @@ index: true
 
 在前面的学习中,我们知道`spring-boot-starter-parent`依赖中对于SpringBoot工程的一些配置文件进行了初始化的设定:
 
-![](assets/image-20230704141012629.png)
+![](./assets/image-20230704141012629.png)
 
 我们看到SpringBoot会默认读取项目下名字为 `application开头` 的  `yml` / `yaml` / `properties` 配置文件
 
@@ -24,14 +24,14 @@ index: true
 
 spring官方为我们提供了可配置参数的API文档 :  [Spring官方配置文档](https://docs.spring.io/spring-boot/docs/current/reference/html/application-properties.html#appendix.application-properties)
 
-![](assets/image-20230704160226041.png)
+![](./assets/image-20230704160226041.png)
 
 ## application配置文件
 
 例如,在Spring官方配置中提供了对接口以及项目上下文的配置参考如下: 
 
-![](assets/image-20230704163857074.png)
-![](assets/image-20230704163917940.png)
+![](./assets/image-20230704163857074.png)
+![](./assets/image-20230704163917940.png)
 
 我们接下来将通过不同的配置文件类型来演示该选项的配置
 
@@ -42,7 +42,7 @@ spring官方为我们提供了可配置参数的API文档 :  [Spring官方配置
 
 创建 application.properties 文件
 
-![](assets/image-20230704164044923.png)
+![](./assets/image-20230704164044923.png)
 
 `.properties文件`为`key=value`的形式,Spring官方列举的参数均为properties文件的key,我们直接配置他的value值即可
 
@@ -59,14 +59,14 @@ server.servlet.context-path=/springboot02
 
 创建application.yml文件
 
-![](assets/image-20230704164726832.png)
+![](./assets/image-20230704164726832.png)
 
 需要注意的是,`.yml`文件的语法与`.properties`文件有所不同:
 1. 在`.properties`文件中,一个`.`表示层级,而在`.yml`中层级结束需要用`:`,且下一个层级需要与上一个层级多两个空格
 2. 在`.properties`文件中我们是直接`key=value`的形式,在`.yml`中需要是`最低级: value`的形式(注意冒号后应该有空格)
 3. `.yml`对大小写敏感 且 相同的部分只出现一次 
 
-![](assets/image-20230704165523850.png)
+![](./assets/image-20230704165523850.png)
 
 语法如下:
 ```yml
@@ -121,16 +121,16 @@ number2: [1,2,3,4]
 配置文件允许存放在以下位置:
 
 1   当前项目根目录中:
-![](assets/image-20230705103045364.png)
+![](./assets/image-20230705103045364.png)
 
 2  当前项目根目录中的`/config`目录下
-![](assets/image-20230705103156211.png)
+![](./assets/image-20230705103156211.png)
 
 3  当前项目的resources目录下
-![](assets/image-20230705103259737.png)
+![](./assets/image-20230705103259737.png)
 
 4  当前项目的`resources/config`目录下
-![](assets/image-20230705103236575.png)
+![](./assets/image-20230705103236575.png)
 
 ##### 优先级
 
@@ -183,14 +183,14 @@ bootstrap与application这两个上下文共用一个环境，它是任何Spring
 其中需要注意的是: 
 
 public目录与static目录,在访问时,无需再次说明目录名(可以省略)
-![](assets/image-20230705105338147.png)
-![](assets/image-20230705105442065.png)
+![](./assets/image-20230705105338147.png)
+![](./assets/image-20230705105442065.png)
 
 webapp目录默认情况下在新版的SpringBoot初始化时时没有的,只有在使用JSP文件时需要创建使用可以参考如下配置:
 
 在项目设置中,设置当前模块的web资源目录为webapp目录就行
-![](assets/image-20230705111501768.png)
+![](./assets/image-20230705111501768.png)
 
 设置成功后,webapp目录上将又小蓝点标记
-![](assets/image-20230705111537110.png)
+![](./assets/image-20230705111537110.png)
 

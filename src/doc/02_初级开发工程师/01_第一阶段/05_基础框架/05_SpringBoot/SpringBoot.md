@@ -20,8 +20,7 @@ index: true
 
 [SpringBoot项目配置与结构](04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md)
 
-[SpringBoot整合Mybatis](05_SpringBoot整合Mybatis/SpringBoot整合Mybatis.md)
+[SpringBoot整合Mybatis与分页](05_SpringBoot整合Mybatis与分页/SpringBoot整合Mybatis与分页.md)
 
 [SpringBoot整合Logback](06_SpringBoot整合Logback/SpringBoot整合Logback.md)
 
-[SpringBoot整合PageHelper](07_SpringBoot整合PageHelper/SpringBoot整合PageHelper.md)

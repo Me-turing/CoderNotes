@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "使用PageHelper实现分页",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/使用PageHelper实现分页.md"
+      "basename": "SpringBoot",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
+    },
+    {
+      "basename": "SpringBoot整合Mybatis与分页",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis与分页/SpringBoot整合Mybatis与分页.md"
+    },
+    {
+      "basename": "image-20230706143445671",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis与分页/assets/image-20230706143445671.png"
     },
     {
       "basename": "分页",
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/分页.md"
     },
     {
-      "basename": "MyBatisPlus快速上手",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md"
+      "basename": "使用PageHelper实现分页",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/使用PageHelper实现分页.md"
     },
     {
-      "basename": "SpringBoot整合PageHelper",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合PageHelper/SpringBoot整合PageHelper.md"
+      "basename": "Mybatis基础",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/Mybatis基础.md"
+    },
+    {
+      "basename": "MyBatisPlus快速上手",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md"
     },
     {
       "basename": "Mybatis代理模式的开发",
@@ -51,14 +63,6 @@
     {
       "basename": "请求参数的处理",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md"
-    },
-    {
-      "basename": "SpringBoot",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
-    },
-    {
-      "basename": "SpringBoot整合Mybatis",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis/SpringBoot整合Mybatis.md"
     },
     {
       "basename": "Mybatis配置",
@@ -191,10 +195,6 @@
     {
       "basename": "image-20230629163525188",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/13_拦截器/assets/image-20230629163525188.gif"
-    },
-    {
-      "basename": "跨域处理",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/06_Ajax/04_跨域处理/跨域处理.md"
     }
   ],
   "omittedPaths": [],

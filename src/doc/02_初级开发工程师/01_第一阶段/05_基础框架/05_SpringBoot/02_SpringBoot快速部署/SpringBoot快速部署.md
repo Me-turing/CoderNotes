@@ -18,7 +18,7 @@ index: true
 ### 手动部署
 
 创建Maven项目
-![](assets/image-20230703151930514.png)
+![](./assets/image-20230703151930514.png)
 
 #### 方式一 : 继承方式
 
@@ -46,7 +46,7 @@ index: true
 ```
 
 依赖引用情况
-![](assets/image-20230703152249768.png)
+![](./assets/image-20230703152249768.png)
 
 #### 方式二 : 依赖方式
 
@@ -80,37 +80,37 @@ index: true
 ```
 
 依赖引用情况
-![](assets/image-20230703153640070.png)
+![](./assets/image-20230703153640070.png)
 
 ### 自动部署
 
 切换Spring Initializr国内源 : `https://start.springboot.io`
-![](assets/image-20230703172009848.png)
+![](./assets/image-20230703172009848.png)
 
 填写SpringBoot工程信息
-![](assets/image-20230703171949109.png)
+![](./assets/image-20230703171949109.png)
 注意: 此时打包类型就可以随意选择了,因为我们是SpringBoot项目,内置了运行环境
 
 选择需要初始化的SpringBoot的版本,勾选SpringWeb项目
-![](assets/image-20230703172112636.png)
+![](./assets/image-20230703172112636.png)
 
 由于新版IDEA中没有低版本的初始化,新版本的Spring不在对于低版本的JDK支持会出现报错的情况,如果我们需要使用低版本的如1.8,需要更改pom.xml中的版本为`2.3.0.RELEASE`
-![](assets/image-20230703172351116.png)
-![](assets/image-20230703172858922.png)
+![](./assets/image-20230703172351116.png)
+![](./assets/image-20230703172858922.png)
 
 检查模块的文件映射
-![](assets/image-20230703172937505.png)
+![](./assets/image-20230703172937505.png)
 >注意此处有坑 : 如果在一个空的目录下创建模块工程,需要检查顶级目录文件夹中是否自动映射了模块的路径,如果有的话请删除映射,否则会出现被占用的情况
 
 检查项目的工程语言
-![](assets/image-20230703172953639.png)
+![](./assets/image-20230703172953639.png)
 
 编译pom文件和工程
-![](assets/image-20230703173202530.png)
-![](assets/image-20230703173210498.png)
+![](./assets/image-20230703173202530.png)
+![](./assets/image-20230703173210498.png)
 
 此时我们看到项目工程已经成功初始化了
-![](assets/image-20230703173248960.png)
+![](./assets/image-20230703173248960.png)
 
 > 自动化部署时,IDEA会帮我们创建很多其他的文件,这些文件可以删除也可以保留.在后面的学习中我们将慢慢了解这些文件的作用
 
@@ -120,7 +120,7 @@ index: true
 ### 启动类
 
 我们发现在Spring Initializr自动化部署时,为我们创建了`SpringBoot02Application.java`文件,该文件为SpringBoot的**启动类**
-![](assets/image-20230703173612964.png)
+![](./assets/image-20230703173612964.png)
 
 Spring Boot的启动类的作用是启动Spring Boot项目，是基于Main方法来运行的。
 
@@ -128,7 +128,7 @@ Spring Boot的启动类的作用是启动Spring Boot项目，是基于Main方法
 
 ### 启动器
 
-![](assets/image-20230703174131939.png)
+![](./assets/image-20230703174131939.png)
 
 Spring Boot将所有的功能场景都抽取出来，做成一个个的starter(启动器),只需要在项目里面引入这些starter相关场景的的所有依赖都会导入进来. 要用什么功能就导入什么场景在jar包的管理上非常方便，最终实现一站式开发
 
@@ -160,7 +160,7 @@ public class SpringBoot01Application {
 3. 启动类中使用@SpringBootApplication注解
 4. Main方法中使用`SpringApplication.run(启动类字节码文件,参数)`
 
-![](assets/image-20230704091325104.png)
+![](./assets/image-20230704091325104.png)
 
 ### 步骤二 : 创建Controller
 
@@ -175,21 +175,21 @@ public class MyController {
 }
 ```
 
-![](assets/image-20230704091701086.png)
+![](./assets/image-20230704091701086.png)
 
 ### 步骤三 : 启动访问
 
 直接启动运行启动类
 
-![](assets/image-20230704091856261.png)
+![](./assets/image-20230704091856261.png)
 
 由于由于我们没有配置项目参数,所以默认路径为 : `localhost:8080`
 
-![](assets/image-20230704092006528.png)
+![](./assets/image-20230704092006528.png)
 
 访问: `localhost:8080/geMyFirstController`
 
-![](assets/image-20230704092031812.png)
+![](./assets/image-20230704092031812.png)
 
 ## 项目结构
 

@@ -72,8 +72,8 @@ public void testTransaction3(){
 
 其实使用配置类配置事务,与xml的结构基本相似,都是对一些必须的类进行Bean的注入
 
-![](assets/image-20230704103427764.png)
+![](./assets/image-20230704103427764.png)
 
 比较特殊的是,使用XML时我们直接注入DataSourceTransactionManager类即可,Spring底层会自动通过类名注入到PlatformTransactionManager接口.在我们手动配置类时,需要直接注入到PlatformTransactionManager接口
 
-![](assets/image-20230704103359726.png)
+![](./assets/image-20230704103359726.png)

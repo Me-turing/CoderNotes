@@ -48,7 +48,7 @@ Spring框架在项目中作用是Spring整合各种其他技术，让其他技�
 
 ### SpringBoot版本介绍
 
-![](assets/image-20230703150802299.png)
+![](./assets/image-20230703150802299.png)
 
 - SNAPSHOT：快照版，即开发版
 - CURRENT：最新版，但是不一定是稳定版

@@ -29,3 +29,5 @@ index: true
 [Mybatis缓存](08_Mybatis缓存/Mybatis缓存.md)
 
 [Mybatis逆向工程与其他配置](09_Mybatis逆向工程与其他配置/Mybatis逆向工程与其他配置.md)
+
+[使用PageHelper实现分页](10_使用PageHelper实现分页/使用PageHelper实现分页.md)
