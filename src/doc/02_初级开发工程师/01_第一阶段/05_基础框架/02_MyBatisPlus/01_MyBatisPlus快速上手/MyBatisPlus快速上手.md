@@ -72,7 +72,7 @@ INSERT INTO user (id, name, age, email) VALUES
 
 #### 创建SpringBoot项目
 
-使用Spring Initializr快速创建项目
+使用Spring Initializr快速创建项目 (关于SpringBoot后面会详细讲解)
 
 ![](./assets/image-20230418134739045.png)
 

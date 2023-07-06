@@ -78,7 +78,7 @@ Spring Boot默认使用Logback组件作为日志管理。Logback是由log4j创�
     </root>
 
     <!-- 指定包的日志级别 -->
-    <logger name="com.msb.mapper" level="DEBUG"></logger>
+    <logger name="com.meturing.mapper" level="DEBUG"></logger>
 
     <!--日志异步到数据库 -->
     <!--<appender name="DB" class="ch.qos.logback.classic.db.DBAppender">
