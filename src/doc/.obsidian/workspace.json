@@ -19,6 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "91600f7a5683a05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/分页.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -222,45 +235,46 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "4048d16155431339",
+  "active": "7327be173ddc19a1",
   "lastOpenFiles": [
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code.zip",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/main/java/com/meturing/service/impl/AccountServiceImpl.java",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/main/java/com/meturing/dao/impl/AccountDaoImpl.java",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/target/classes/com/meturing/service/impl/AccountServiceImpl.class",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/target/classes/com/meturing/dao/impl/AccountDaoImpl.class",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/main/java/com/meturing/pojo/Wallet.java",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/main/java/com/meturing/service/impl",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/main/java/com/meturing/service/AccountService.java",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/main/java/com/meturing/dao/impl",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/main/java/com/meturing/dao/AccountDao.java",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/00_Code/Spring_Test08_Transaction/src/test/java/com/meturing/test/Test01.java",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/assets/image-20230706140146465.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/assets/image-20230706140053291.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/assets/image-20230706140001579.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/使用PageHelper实现分页.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/assets/image-20230706135702860.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/assets/image-20230706135037132.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/assets/image-20230706134455346.png",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/分页.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/assets/image-20230706112101828.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合PageHelper/SpringBoot整合PageHelper.md",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/分页.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/05_Mybatis代理模式的开发/Mybatis代理模式的开发.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/04_常用插件/常用插件.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/使用PageHelper实现分页.md",
     "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/06_DAO/DAO.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/assets/image-20230706104233271.png",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/assets/image-20230706103627955.png",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/assets/image-20230706103833677.png",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/assets/image-20230706102819621.png",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/assets",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/SpringBoot整合Logback.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/03_过滤器的应用案例/过滤器的应用案例.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis/SpringBoot整合Mybatis.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/assets/image-20230705180207151.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/assets/image-20230705180033135.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/assets/image-20230705175822100.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/assets/image-20230705175816107.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/assets/image-20230705175743535.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/assets/image-20230705175723725.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/03_Mybatis配置/Mybatis配置.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/08_Mybatis缓存/Mybatis缓存.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot整合Thymeleaf",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_SpringBoot整合FreeMarker",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot整合JSP",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合Druid",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合PageHelper",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/06_Mybatis动态SQL/Mybatis动态SQL.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/09_Mybatis逆向工程与其他配置/Mybatis逆向工程与其他配置.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/07_Mybatis多表查询/Mybatis多表查询.md",
@@ -269,7 +283,6 @@
     "02_初级开发工程师/初级开发工程师.md",
     "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md",
     "01_JavaSE阶段/C_开发必备工具/01_IDEA/01_基本操作/基本操作.md",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/06_导航/导航.md",
     "未命名.canvas"
   ]
 }
