@@ -192,5 +192,4 @@ webapp目录默认情况下在新版的SpringBoot初始化时时没有的,只有
 ![](./assets/image-20230705111501768.png)
 
 设置成功后,webapp目录上将又小蓝点标记
-![](./assets/image-20230705111537110.png)
-
+![](assets/image-20230707111336548.png)

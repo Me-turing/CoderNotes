@@ -24,3 +24,11 @@ index: true
 
 [SpringBoot整合Logback](06_SpringBoot整合Logback/SpringBoot整合Logback.md)
 
+[SpringBoot整合Druid](07_SpringBoot整合Druid/SpringBoot整合Druid.md)
+
+[SpringBoot整合JSP](08_SpringBoot整合JSP/SpringBoot整合JSP.md)
+
+[使用FreeMarker模板引擎](09_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md)
+
+
+
