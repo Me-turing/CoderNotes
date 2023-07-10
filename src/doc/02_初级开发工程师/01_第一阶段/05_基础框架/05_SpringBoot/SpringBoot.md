@@ -30,5 +30,7 @@ index: true
 
 [使用FreeMarker模板引擎](09_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md)
 
+[使用Thymeleaf模板引擎](10_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md)
+
 
 

@@ -12,7 +12,7 @@ sticky: true
 index: true
 ---
 
-> 写在前面 : FreeMarker是MVC下的产物,需要SpringMVC的技术支持,将ModelAndView对象子啊视图解析器中解析成View对象并渲染给前端用户
+> 写在前面 : FreeMarker是MVC下的产物,需要SpringMVC的技术支持,将ModelAndView对象在视图解析器中解析成View对象并渲染给前端用户
 
 ![](assets/image-20230707134658022.png)
 
@@ -30,7 +30,78 @@ freemarker作为springmvc一种视图格式，**默认情况下SpringMVC支持fr
 
 ## 快速使用FreeMarker
 
-### 导入依赖
+### 快速创建一个SpringBoot项目
+
+创建Springboot项目详见 : [自动部署](../02_SpringBoot快速部署/SpringBoot快速部署.md#自动部署)
+
+```xml
+<!--整合Mybatis-->
+<dependency>
+	<groupId>org.mybatis.spring.boot</groupId>
+	<artifactId>mybatis-spring-boot-starter</artifactId>
+	<version>2.2.0</version>
+</dependency>
+<dependency>
+	<groupId>mysql</groupId>
+	<artifactId>mysql-connector-java</artifactId>
+	<version>8.0.21</version>
+</dependency>
+<dependency>
+	<groupId>org.projectlombok</groupId>
+	<artifactId>lombok</artifactId>
+	<version>1.18.26</version>
+	<scope>provided</scope>
+</dependency>
+<!--pagehelper分页插件-->
+<dependency>
+	<groupId>com.github.pagehelper</groupId>
+	<artifactId>pagehelper-spring-boot-starter</artifactId>
+	<version>1.2.12</version>
+</dependency>
+```
+
+简单配置Mybatis依赖以及logback配置文件:
+
+application.yml
+```yml
+spring:
+  datasource:
+    url: jdbc:mysql://xxx.xxx.xxx.xx:3306/codernotes?useSSL=false&useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: CoderNotes
+    password: CoderNotes
+server:
+  port: 8080
+  servlet:
+    context-path: /springboot04
+mybatis:
+  type-aliases-package: com.meturing.pojo #指定pojo的位置
+  mapper-locations: classpath:mapper/*.xml  #如果没有将Mapper与接口放到一起,可以使用该参数指定Mapper的位置
+```
+
+logback.xml
+```xml
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <!-- 控制台输出 -->
+    <appender name="Stdout" class="ch.qos.logback.core.ConsoleAppender">
+        <!-- 日志输出格式 -->
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <!--格式化输出：%d表示日期，%thread表示线程名，%-5level：级别从左显示5个字符宽度%msg：日志消息，%n是换行符-->
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{50} - %msg%n
+            </pattern>
+        </layout>
+    </appender>
+    <!-- 日志输出级别 -->
+    <root level="info">
+        <appender-ref ref="Stdout"/>
+    </root>
+    <!-- 指定包的日志级别 -->
+    <logger name="com.meturing.mapper" level="DEBUG"></logger>
+</configuration>
+```
+
+### 导入Freemarker依赖
 
 ```XMl
 <!--freemarker依赖支持-->
