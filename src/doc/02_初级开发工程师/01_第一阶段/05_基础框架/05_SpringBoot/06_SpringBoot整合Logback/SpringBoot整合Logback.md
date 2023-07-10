@@ -5,14 +5,14 @@ order: 1
 author: 十七
 date: 2023-07-05 周三
 category:
-	- 初级开发工程师
+    - 初级开发工程师
 tag:
-	- P5
+    - P5
 sticky: true
 index: true
 ---
 
-在前面的学习中,我使用了 log4j1 /  log4j2,也尝试了手动配置加入Logback日志.
+在前面的学习中,我使用了 log4j1 / log4j2,也尝试了手动配置加入Logback日志.
 详见之前的手动配置 :
 
 [导入Log4j日志框架](../../01_Mybatis基础/03_Mybatis配置/Mybatis配置.md#导入Log4j日志框架)
@@ -23,7 +23,8 @@ index: true
 
 Spring Boot默认使用Logback组件作为日志管理。Logback是由log4j创始人设计的一个开源日志组件。
 
-在Spring Boot项目中**我们不需要额外的添加Logback的依赖**，因为在`spring-boot-starter`或者`spring-boot-starter-web`中已经包含了Logback的依赖。
+在Spring Boot项目中**我们不需要额外的添加Logback的依赖**，因为在`spring-boot-starter`或者`spring-boot-starter-web`
+中已经包含了Logback的依赖。
 
 ### logback读取配置文件的步骤
 
@@ -134,7 +135,7 @@ logback支持将日志直接存储至日志数据库中,此操作是异步的,�
 <!-- scan:当此属性设置为true时，配置文档如果发生改变，将会被重新加载，默认值为true -->
 <!-- scanPeriod:设置监测配置文档是否有修改的时间间隔，如果没有给出时间单位，默认单位是毫秒。当scan为true时，此属性生效。默认的时间间隔为1分钟。 -->
 <!-- debug:当此属性设置为true时，将打印出logback内部日志信息，实时查看logback运行状态。默认值为false。 -->
-<configuration  scan="true" scanPeriod="10 seconds">
+<configuration scan="true" scanPeriod="10 seconds">
     <contextName>logback</contextName>
 
     <!-- name的值是变量的名称，value的值时变量定义的值。通过定义的值会被插入到logger上下文中。定义后，可以使“${}”来使用变量。 -->
@@ -143,11 +144,14 @@ logback支持将日志直接存储至日志数据库中,此操作是异步的,�
 
     <!--0. 日志格式和颜色渲染 -->
     <!-- 彩色日志依赖的渲染类 -->
-    <conversionRule conversionWord="clr" converterClass="org.springframework.boot.logging.logback.ColorConverter" />
-    <conversionRule conversionWord="wex" converterClass="org.springframework.boot.logging.logback.WhitespaceThrowableProxyConverter" />
-    <conversionRule conversionWord="wEx" converterClass="org.springframework.boot.logging.logback.ExtendedWhitespaceThrowableProxyConverter" />
+    <conversionRule conversionWord="clr" converterClass="org.springframework.boot.logging.logback.ColorConverter"/>
+    <conversionRule conversionWord="wex"
+                    converterClass="org.springframework.boot.logging.logback.WhitespaceThrowableProxyConverter"/>
+    <conversionRule conversionWord="wEx"
+                    converterClass="org.springframework.boot.logging.logback.ExtendedWhitespaceThrowableProxyConverter"/>
     <!-- 彩色日志格式 -->
-    <property name="CONSOLE_LOG_PATTERN" value="${CONSOLE_LOG_PATTERN:-%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(${LOG_LEVEL_PATTERN:-%5p}) %clr(${PID:- }){magenta} %clr(---){faint} %clr([%15.15t]){faint} %clr(%-40.40logger{39}){cyan} %clr(:){faint} %m%n${LOG_EXCEPTION_CONVERSION_WORD:-%wEx}}"/>
+    <property name="CONSOLE_LOG_PATTERN"
+              value="${CONSOLE_LOG_PATTERN:-%clr(%d{yyyy-MM-dd HH:mm:ss.SSS}){faint} %clr(${LOG_LEVEL_PATTERN:-%5p}) %clr(${PID:- }){magenta} %clr(---){faint} %clr([%15.15t]){faint} %clr(%-40.40logger{39}){cyan} %clr(:){faint} %m%n${LOG_EXCEPTION_CONVERSION_WORD:-%wEx}}"/>
 
     <!--1. 输出到控制台-->
     <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
@@ -268,7 +272,7 @@ logback支持将日志直接存储至日志数据库中,此操作是异步的,�
             <onMismatch>DENY</onMismatch>
         </filter>
     </appender>
-    
+
     <!-- 2.5 所有 除了DEBUG级别的其它高于DEBUG的 日志，记录到一个文件  -->
     <appender name="ALL_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <!-- 正在记录的日志文档的路径及文档名 -->
@@ -326,24 +330,24 @@ logback支持将日志直接存储至日志数据库中,此操作是异步的,�
                  基本策略(root级) + 根据profile在启动时, logger标签中定制化package日志级别(优先级高于上面的root级)-->
     <springProfile name="dev">
         <root level="info">
-            <appender-ref ref="CONSOLE" />
-            <appender-ref ref="DEBUG_FILE" />
-            <appender-ref ref="INFO_FILE" />
-            <appender-ref ref="WARN_FILE" />
-            <appender-ref ref="ERROR_FILE" />
-            <appender-ref ref="ALL_FILE" />
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DEBUG_FILE"/>
+            <appender-ref ref="INFO_FILE"/>
+            <appender-ref ref="WARN_FILE"/>
+            <appender-ref ref="ERROR_FILE"/>
+            <appender-ref ref="ALL_FILE"/>
         </root>
         <logger name="com.xusanduo.demo" level="debug"/> <!-- 开发环境, 指定某包日志为debug级 -->
     </springProfile>
 
     <springProfile name="test">
         <root level="info">
-            <appender-ref ref="CONSOLE" />
-            <appender-ref ref="DEBUG_FILE" />
-            <appender-ref ref="INFO_FILE" />
-            <appender-ref ref="WARN_FILE" />
-            <appender-ref ref="ERROR_FILE" />
-            <appender-ref ref="ALL_FILE" />
+            <appender-ref ref="CONSOLE"/>
+            <appender-ref ref="DEBUG_FILE"/>
+            <appender-ref ref="INFO_FILE"/>
+            <appender-ref ref="WARN_FILE"/>
+            <appender-ref ref="ERROR_FILE"/>
+            <appender-ref ref="ALL_FILE"/>
         </root>
         <logger name="com.xusanduo.demo" level="info"/> <!-- 测试环境, 指定某包日志为info级 -->
     </springProfile>
@@ -351,11 +355,11 @@ logback支持将日志直接存储至日志数据库中,此操作是异步的,�
     <springProfile name="pro">
         <root level="info">
             <!-- 生产环境最好不配置console写文件 -->
-            <appender-ref ref="DEBUG_FILE" />
-            <appender-ref ref="INFO_FILE" />
-            <appender-ref ref="WARN_FILE" />
-            <appender-ref ref="ERROR_FILE" />
-            <appender-ref ref="ALL_FILE" />
+            <appender-ref ref="DEBUG_FILE"/>
+            <appender-ref ref="INFO_FILE"/>
+            <appender-ref ref="WARN_FILE"/>
+            <appender-ref ref="ERROR_FILE"/>
+            <appender-ref ref="ALL_FILE"/>
         </root>
         <logger name="com.xusanduo.demo" level="warn"/> <!-- 生产环境, 指定某包日志为warn级 -->
         <logger name="com.xusanduo.demo.MyApplication" level="info"/> <!-- 特定某个类打印info日志, 比如application启动成功后的提示语 -->
