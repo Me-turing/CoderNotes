@@ -11,8 +11,13 @@
             "id": "8b53bd37f88036a6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -108,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md"
+              }
             }
           },
           {
@@ -133,6 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,6 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,27 +223,34 @@
   },
   "active": "8b53bd37f88036a6",
   "lastOpenFiles": [
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/16_SpringBoot整合Mybatis-plus",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/15_SpringBoot静态资源与文件上传",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot异常处理",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_SpringBoot项目打包",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎",
     "02_初级开发工程师/01_第一阶段/03_前端技术/前端技术.md",
     "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展/前端架构拓展.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md",
     "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展",
-    "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/Thymeleaf-3.0.11.pdf",
-    "02_初级开发工程师/01_第一阶段/03_前端技术/09_Thymeleaf/file/Thymeleaf-3.0.11_B0zIAhCTc5.pdf",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710143503445.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710143456195.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710143431474.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710143503445.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710143456195.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710143431474.png",
     "02_初级开发工程师/01_第一阶段/03_前端技术/09_Thymeleaf/Thymeleaf.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710142538138.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710142520928.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710142244642.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710142135736.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710141956918.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710141940311.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets/image-20230710141924740.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/assets",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142538138.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142520928.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142244642.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142135736.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710141956918.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710141940311.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710141924740.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/01_概念引入与环境准备/概念引入与环境准备.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md",
@@ -251,13 +268,6 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/07_Mybatis多表查询/Mybatis多表查询.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_使用FreeMarker模板引擎/assets",
-    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/JSP.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合JSP/SpringBoot整合JSP.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合JSP/assets",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/assets",
-    "05_高级开发工程师/11_分布式三高架构落地设计",
-    "05_高级开发工程师/10_高级架构师理论",
     "未命名.canvas"
   ]
 }

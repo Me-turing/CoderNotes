@@ -26,11 +26,7 @@ index: true
 
 [SpringBoot整合Druid](07_SpringBoot整合Druid/SpringBoot整合Druid.md)
 
-[SpringBoot整合JSP](08_SpringBoot整合JSP/SpringBoot整合JSP.md)
-
-[使用FreeMarker模板引擎](09_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md)
-
-[使用Thymeleaf模板引擎](10_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md)
+[SpringBoot整合模板引擎](08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md)
 
 
 

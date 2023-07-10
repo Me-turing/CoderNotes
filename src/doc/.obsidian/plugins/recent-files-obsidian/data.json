@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringBoot整合模板引擎",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md"
+    },
+    {
+      "basename": "使用Thymeleaf模板引擎",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md"
+    },
+    {
       "basename": "SpringBoot",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
+    },
+    {
+      "basename": "SpringBoot整合JSP",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md"
     },
     {
       "basename": "前端技术",
@@ -13,20 +25,16 @@
       "path": "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展/前端架构拓展.md"
     },
     {
-      "basename": "使用Thymeleaf模板引擎",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md"
-    },
-    {
       "basename": "使用FreeMarker模板引擎",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md"
     },
     {
       "basename": "image-20230707134658022",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_使用FreeMarker模板引擎/assets/image-20230707134658022.png"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/assets/image-20230707134658022.png"
     },
     {
       "basename": "image-20230707134322209",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_使用FreeMarker模板引擎/assets/image-20230707134322209.png"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/assets/image-20230707134322209.png"
     },
     {
       "basename": "SpringBoot快速部署",
@@ -101,20 +109,16 @@
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/JSP.md"
     },
     {
-      "basename": "SpringBoot整合JSP",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合JSP/SpringBoot整合JSP.md"
-    },
-    {
       "basename": "JavaEE技术",
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md"
     },
     {
       "basename": "image-20230707102205472",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合JSP/assets/image-20230707102205472.png"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/assets/image-20230707102205472.png"
     },
     {
       "basename": "image-20230707102056800",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合JSP/assets/image-20230707102056800.png"
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/assets/image-20230707102056800.png"
     },
     {
       "basename": "SpringBoot启动器原理分析",

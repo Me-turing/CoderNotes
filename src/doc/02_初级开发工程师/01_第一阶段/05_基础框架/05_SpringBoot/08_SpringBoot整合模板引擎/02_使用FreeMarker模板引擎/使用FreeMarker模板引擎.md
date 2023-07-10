@@ -32,7 +32,7 @@ freemarker作为springmvc一种视图格式，**默认情况下SpringMVC支持fr
 
 ### 快速创建一个SpringBoot项目
 
-创建Springboot项目详见 : [自动部署](../02_SpringBoot快速部署/SpringBoot快速部署.md#自动部署)
+创建Springboot项目详见 : [自动部署](../../02_SpringBoot快速部署/SpringBoot快速部署.md#自动部署)
 
 ```xml
 <!--整合Mybatis-->
@@ -890,7 +890,7 @@ public class FreeMarkerDemo02 {
 
 ### 数据准备
 
-请确保DB中已经存在数据 :  [导入数据库](../../01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md#导入数据库)
+请确保DB中已经存在数据 :  [导入数据库](../../../01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md#导入数据库)
 
 ![](assets/image-20230707140507773.png)
 

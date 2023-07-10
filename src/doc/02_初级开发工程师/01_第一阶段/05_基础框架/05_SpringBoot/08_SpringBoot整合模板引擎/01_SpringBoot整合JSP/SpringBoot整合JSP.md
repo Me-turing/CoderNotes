@@ -92,4 +92,4 @@ this is successPage
 
 ## 补充
 
-关于JSP的相关语法可见  : [JSP](../../../04_JavaEE技术/04_JSP/JSP.md)
+关于JSP的相关语法可见  : [JSP](../../../../04_JavaEE技术/04_JSP/JSP.md)

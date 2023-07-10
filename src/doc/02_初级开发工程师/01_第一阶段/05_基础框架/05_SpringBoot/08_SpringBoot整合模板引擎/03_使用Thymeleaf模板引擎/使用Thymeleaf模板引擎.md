@@ -40,7 +40,7 @@ Thymeleaf的主要目标是将优雅的自然模板带到开发工作流程中�
 
 ### 快速创建一个SpringBoot项目
 
-创建Springboot项目详见 : [自动部署](../02_SpringBoot快速部署/SpringBoot快速部署.md#自动部署)
+创建Springboot项目详见 : [自动部署](../../02_SpringBoot快速部署/SpringBoot快速部署.md#自动部署)
 
 ```xml
 <!--整合Mybatis-->
