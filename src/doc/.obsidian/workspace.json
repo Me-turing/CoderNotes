@@ -13,14 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
+                "file": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
+          },
+          {
+            "id": "9fd29e959f32dbe3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +147,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -163,7 +169,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 86,
-                  "scale": 1.053497942386833,
+                  "scale": 0.7514342322277592,
                   "close": true
                 }
               }
@@ -175,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,10 +225,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8b53bd37f88036a6",
+  "active": "9fd29e959f32dbe3",
   "lastOpenFiles": [
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md",
+    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md",
+    "01_JavaSE阶段/C_开发必备工具/04_Obsidian/01_认识Obsidian/认识Obsidian.md",
+    "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/JSP.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/SpringBoot整合Druid.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md",
+    "02_初级开发工程师/初级开发工程师.md",
+    "03_计算机基础知识/计算机基础知识.md",
+    "01_JavaSE阶段/C_开发必备工具/03_Git/Git.md",
+    "01_JavaSE阶段/B_进阶/06_网络编程/01_初识网络编程/初识网络编程.md",
+    "01_JavaSE阶段/B_进阶/06_网络编程/网络编程.md",
+    "01_JavaSE阶段/B_进阶/JavaSE进阶.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/使用Thymeleaf模板引擎.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/16_SpringBoot整合Mybatis-plus",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/15_SpringBoot静态资源与文件上传",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展",
@@ -233,8 +250,6 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot异常处理",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_SpringBoot项目打包",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎",
     "02_初级开发工程师/01_第一阶段/03_前端技术/前端技术.md",
     "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展/前端架构拓展.md",
@@ -258,16 +273,6 @@
     "01_JavaSE阶段/B_进阶/03_集合/02_Collection接口/Collection接口.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/使用PageHelper实现分页.md",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/06_新时间日期API/新时间日期API.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/SpringBoot整合Logback.md",
-    "01_JavaSE阶段/JavaSE阶段.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis与分页/SpringBoot整合Mybatis与分页.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/SpringBoot整合Druid.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/10_作用域传参/作用域传参.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/06_请求参数的处理/请求参数的处理.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/07_Mybatis多表查询/Mybatis多表查询.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md",
     "未命名.canvas"
   ]
 }

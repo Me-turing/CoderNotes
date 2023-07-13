@@ -12,15 +12,14 @@ sticky: true
 index: true
 ---
 
+[认识Obsidian](01_认识Obsidian/认识Obsidian.md)
 
-[[01_认识Obsidian/认识Obsidian|认识Obsidian]]
+[Markdown语法](02_MarkDown/Markdown语法.md)
 
-[[02_MarkDown/02_Markdown语法|Markdown语法]]
+[Obsidian双向链接](03_Obsidian双向链接/Obsidian双向链接.md)
 
-[[03_Obsidian双向链接/Obsidian双向链接|Obsidian双向链接]]
+[Obsidian技巧与设置](04_Obsidian技巧与设置/Obsidian技巧与设置.md)
 
-[[04_Obsidian技巧与设置/Obsidian技巧与设置|Obsidian技巧与设置]]
+[Obsidian的插件](05_Obsidian的插件/Obsidian的插件.md)
 
-[[05_Obsidian的插件/Obsidian的插件|Obsidian的插件]]
-
-[[06_Obsidian的搜索与查询/Obsidian的搜索与查询|Obsidian的搜索与查询]]
+[Obsidian的搜索与查询](06_Obsidian的搜索与查询/Obsidian的搜索与查询.md)
