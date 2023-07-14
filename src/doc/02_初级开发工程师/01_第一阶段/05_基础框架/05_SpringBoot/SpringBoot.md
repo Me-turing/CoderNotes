@@ -28,5 +28,6 @@ index: true
 
 [SpringBoot整合模板引擎](08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md)
 
+[SpringBoot开发者工具与项目打包](09_SpringBoot开发者工具与项目打包/SpringBoot开发者工具与项目打包.md)
 
 

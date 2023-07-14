@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringBoot",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
+    },
+    {
+      "basename": "SpringBoot开发者工具与项目打包",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/SpringBoot开发者工具与项目打包.md"
+    },
+    {
       "basename": "Obsidian",
       "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "SpringBoot整合JSP",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md"
     },
     {
       "basename": "认识Obsidian",
@@ -13,16 +25,8 @@
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/JSP.md"
     },
     {
-      "basename": "SpringBoot整合JSP",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md"
-    },
-    {
       "basename": "SpringBoot整合模板引擎",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md"
-    },
-    {
-      "basename": "SpringBoot",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
     },
     {
       "basename": "SpringBoot整合Druid",
@@ -195,10 +199,6 @@
     {
       "basename": "Mybatis基础",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/Mybatis基础.md"
-    },
-    {
-      "basename": "MyBatisPlus快速上手",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md"
     }
   ],
   "omittedPaths": [],

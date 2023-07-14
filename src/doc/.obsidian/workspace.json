@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,12 +24,16 @@
             "id": "9fd29e959f32dbe3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
+              }
             }
           },
           {
@@ -147,6 +153,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,6 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,12 +234,24 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "9fd29e959f32dbe3",
+  "active": "8b53bd37f88036a6",
   "lastOpenFiles": [
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/SpringBoot开发者工具与项目打包.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714182044557.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714181929391.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714181852682.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714181621782.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714181402954.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714175811062.png",
     "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714173532611.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714173318547.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714173135536.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets/image-20230714172953352.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/assets",
     "01_JavaSE阶段/C_开发必备工具/04_Obsidian/01_认识Obsidian/认识Obsidian.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/JSP.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/SpringBoot整合Druid.md",
@@ -253,26 +274,13 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎",
     "02_初级开发工程师/01_第一阶段/03_前端技术/前端技术.md",
     "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展/前端架构拓展.md",
-    "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710143503445.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710143456195.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710143431474.png",
     "02_初级开发工程师/01_第一阶段/03_前端技术/09_Thymeleaf/Thymeleaf.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142538138.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142520928.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142244642.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710142135736.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710141956918.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710141940311.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/03_使用Thymeleaf模板引擎/assets/image-20230710141924740.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/01_概念引入与环境准备/概念引入与环境准备.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/05_ServletContext和ServlectConfig/ServletContext和ServlectConfig.md",
     "01_JavaSE阶段/B_进阶/03_集合/02_Collection接口/Collection接口.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/10_使用PageHelper实现分页/使用PageHelper实现分页.md",
-    "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/06_新时间日期API/新时间日期API.md",
     "未命名.canvas"
   ]
 }
