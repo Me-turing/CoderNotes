@@ -5,16 +5,40 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
     },
     {
-      "basename": "SpringBoot开发者工具与项目打包",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot开发者工具与项目打包/SpringBoot开发者工具与项目打包.md"
+      "basename": "SpringBoot单元测试",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/SpringBoot单元测试.md"
     },
     {
-      "basename": "Obsidian",
-      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md"
+      "basename": "SpringBoot异常处理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot异常处理/SpringBoot异常处理.md"
+    },
+    {
+      "basename": "异常处理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/14_异常处理/异常处理.md"
     },
     {
       "basename": "SpringBoot整合JSP",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md"
+    },
+    {
+      "basename": "SpringBoot热更新与项目打包",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot热更新与项目打包/SpringBoot热更新与项目打包.md"
+    },
+    {
+      "basename": "初识JavaScript",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/03_JavaScript/01_初识JavaScript/初识JavaScript.md"
+    },
+    {
+      "basename": "BOM编程",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/03_JavaScript/06_BOM编程/BOM编程.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/03_JavaScript/JavaScript.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md"
     },
     {
       "basename": "认识Obsidian",
@@ -175,30 +199,6 @@
     {
       "basename": "image-20230703152249768",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/assets/image-20230703152249768.png"
-    },
-    {
-      "basename": "image-20230703151930514",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/assets/image-20230703151930514.png"
-    },
-    {
-      "basename": "SpringBoot简介",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/01_SpringBoot简介/SpringBoot简介.md"
-    },
-    {
-      "basename": "image-20230703150802299",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/01_SpringBoot简介/assets/image-20230703150802299.png"
-    },
-    {
-      "basename": "image-20230706143445671",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis与分页/assets/image-20230706143445671.png"
-    },
-    {
-      "basename": "分页",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/07_分页/分页.md"
-    },
-    {
-      "basename": "Mybatis基础",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/Mybatis基础.md"
     }
   ],
   "omittedPaths": [],
