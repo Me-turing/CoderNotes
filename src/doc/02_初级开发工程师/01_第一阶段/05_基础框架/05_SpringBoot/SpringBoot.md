@@ -33,3 +33,6 @@ index: true
 [SpringBoot异常处理](11_SpringBoot异常处理/SpringBoot异常处理.md)
 
 [SpringBoot单元测试](12_SpringBoot单元测试/SpringBoot单元测试.md)
+
+[SpringBoot对Bean的管理](13_Springboot对Bean的管理/SpringBoot对Bean的管理.md)
+

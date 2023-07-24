@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/SpringBoot对Bean的管理.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/SpringBoot注解拓展.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "项目路径",
+                "query": "Component",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 371.5
   },
   "right": {
     "id": "0e00c07c15aacc6a",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/SpringBoot对Bean的管理.md"
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/SpringBoot注解拓展.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/SpringBoot对Bean的管理.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/SpringBoot注解拓展.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/SpringBoot对Bean的管理.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/SpringBoot注解拓展.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/SpringBoot对Bean的管理.md",
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/SpringBoot注解拓展.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,20 +221,29 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7457575f4f2f253b",
+  "active": "7327be173ddc19a1",
   "lastOpenFiles": [
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/SpringBoot单元测试.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724165159043.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724165003970.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724141034541.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724134723354.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724111418396.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724111315607.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724111248601.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724105721279.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets/image-20230724105447253.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/assets",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/SpringBoot注解拓展.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/未命名",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/SpringBoot对Bean的管理.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230719154507635.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230719154255940.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718152727078.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718152010011.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718151735737.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718145759627.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718145236845.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718144607095.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718144548992.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets/image-20230718144350037.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/assets/image-20230721173710221.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/assets/image-20230721173643083.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/assets",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/11_零XML配置事务/零XML配置事务.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/12_Spring日志框架和测试支持/Spring日志框架和测试支持.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/SpringBoot单元测试.md",
     "Excalidraw/Drawing 2023-07-18 14.30.08.excalidraw.md",
     "Excalidraw",
     "01_JavaSE阶段/B_进阶/JavaSE进阶.md",
@@ -242,9 +251,7 @@
     "01_JavaSE阶段/JavaSE阶段.md",
     "01_JavaSE阶段/B_进阶/02_常用类/常用类.md",
     "未命名.canvas",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/12_Spring日志框架和测试支持/Spring日志框架和测试支持.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试/assets",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot异常处理/SpringBoot异常处理.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/14_异常处理/异常处理.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md",
@@ -260,15 +267,8 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/SpringBoot整合Druid.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md",
-    "02_初级开发工程师/初级开发工程师.md",
-    "03_计算机基础知识/计算机基础知识.md",
-    "01_JavaSE阶段/C_开发必备工具/03_Git/Git.md",
-    "01_JavaSE阶段/B_进阶/06_网络编程/01_初识网络编程/初识网络编程.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/16_SpringBoot整合Mybatis-plus",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/15_SpringBoot静态资源与文件上传",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_SpringBoot单元测试",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot异常处理"
+    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展"
   ]
 }

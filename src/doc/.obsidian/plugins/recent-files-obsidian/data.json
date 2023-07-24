@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringBoot注解拓展",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot注解拓展/SpringBoot注解拓展.md"
+    },
+    {
+      "basename": "Spring基础",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md"
+    },
+    {
+      "basename": "SpringBoot",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
+    },
+    {
       "basename": "SpringBoot对Bean的管理",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_Springboot对Bean的管理/SpringBoot对Bean的管理.md"
+    },
+    {
+      "basename": "零XML配置事务",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/11_零XML配置事务/零XML配置事务.md"
+    },
+    {
+      "basename": "Spring日志框架和测试支持",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/12_Spring日志框架和测试支持/Spring日志框架和测试支持.md"
     },
     {
       "basename": "SpringBoot单元测试",
@@ -27,14 +47,6 @@
     {
       "basename": "常用类",
       "path": "01_JavaSE阶段/B_进阶/02_常用类/常用类.md"
-    },
-    {
-      "basename": "Spring日志框架和测试支持",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/12_Spring日志框架和测试支持/Spring日志框架和测试支持.md"
-    },
-    {
-      "basename": "SpringBoot",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
     },
     {
       "basename": "SpringBoot异常处理",
@@ -187,18 +199,6 @@
     {
       "basename": "Mybatis多表查询",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/07_Mybatis多表查询/Mybatis多表查询.md"
-    },
-    {
-      "basename": "执行流程与三大组件",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/03_执行流程与三大组件/执行流程与三大组件.md"
-    },
-    {
-      "basename": "JavaEE技术",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md"
-    },
-    {
-      "basename": "image-20230707102205472",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/assets/image-20230707102205472.png"
     }
   ],
   "omittedPaths": [],
