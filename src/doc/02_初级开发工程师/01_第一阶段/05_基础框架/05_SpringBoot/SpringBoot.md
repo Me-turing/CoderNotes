@@ -36,3 +36,7 @@ index: true
 
 [SpringBoot对Bean的管理](13_Springboot对Bean的管理/SpringBoot对Bean的管理.md)
 
+[SpringBoot注解拓展](14_SpringBoot注解拓展/SpringBoot注解拓展.md)
+
+[SpringBoot静态资源](15_SpringBoot静态资源/SpringBoot静态资源.md)
+
