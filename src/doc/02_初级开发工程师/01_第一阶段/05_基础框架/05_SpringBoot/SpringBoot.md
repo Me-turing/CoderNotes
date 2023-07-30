@@ -40,3 +40,7 @@ index: true
 
 [SpringBoot静态资源](15_SpringBoot静态资源/SpringBoot静态资源.md)
 
+[SpringBoot文件上传](16_SpringBoot文件上传/SpringBoot文件上传.md)
+
+
+
