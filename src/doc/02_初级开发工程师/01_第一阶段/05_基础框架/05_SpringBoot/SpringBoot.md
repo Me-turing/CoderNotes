@@ -30,17 +30,18 @@ index: true
 
 [SpringBoot热更新与项目打包](09_SpringBoot热更新与项目打包/SpringBoot热更新与项目打包.md)
 
-[SpringBoot异常处理](11_SpringBoot异常处理/SpringBoot异常处理.md)
+[SpringBoot异常处理](10_SpringBoot异常处理/SpringBoot异常处理.md)
 
-[SpringBoot单元测试](12_SpringBoot单元测试/SpringBoot单元测试.md)
+[SpringBoot单元测试](11_SpringBoot单元测试/SpringBoot单元测试.md)
 
-[SpringBoot对Bean的管理](13_Springboot对Bean的管理/SpringBoot对Bean的管理.md)
+[SpringBoot对Bean的管理](12_Springboot对Bean的管理/SpringBoot对Bean的管理.md)
 
-[SpringBoot注解拓展](14_SpringBoot注解拓展/SpringBoot注解拓展.md)
+[SpringBoot注解拓展](13_SpringBoot注解拓展/SpringBoot注解拓展.md)
 
-[SpringBoot静态资源](15_SpringBoot静态资源/SpringBoot静态资源.md)
+[SpringBoot静态资源](14_SpringBoot静态资源/SpringBoot静态资源.md)
 
-[SpringBoot文件上传](16_SpringBoot文件上传/SpringBoot文件上传.md)
+[SpringBoot文件上传](15_SpringBoot文件上传/SpringBoot文件上传.md)
 
+[SpringBoot整合Mybatis-plus](16_SpringBoot整合Mybatis-plus/SpringBoot整合Mybatis-plus.md)
 
 
