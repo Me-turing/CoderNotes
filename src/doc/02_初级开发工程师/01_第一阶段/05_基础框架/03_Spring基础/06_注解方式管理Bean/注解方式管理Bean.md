@@ -105,7 +105,6 @@ http://www.springframework.org/schema/context/spring-context.xsd">
 实体类
 ```Java
 @Component  
-  
 @Data  
 @ToString  
 @NoArgsConstructor  

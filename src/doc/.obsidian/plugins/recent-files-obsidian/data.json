@@ -1,16 +1,92 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
+    },
+    {
+      "basename": "SpringJPA知识点",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md"
+    },
+    {
+      "basename": "Repository接口",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/Repository接口.md"
+    },
+    {
+      "basename": "入门案例",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/入门案例.md"
+    },
+    {
+      "basename": "Spring整合HibernateJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md"
+    },
+    {
+      "basename": "Spring整合Hibernate",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/Spring整合Hibernate.md"
+    },
+    {
+      "basename": "ServletContext和ServlectConfig",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/05_ServletContext和ServlectConfig/ServletContext和ServlectConfig.md"
+    },
+    {
+      "basename": "继承结构与生命周期",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/04_继承结构与生命周期/继承结构与生命周期.md"
+    },
+    {
+      "basename": "乱码的处理",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/03_乱码的处理/乱码的处理.md"
+    },
+    {
+      "basename": "HttpServletRequest和HttpServletResponse",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/02_HttpServletRequest和HttpServlet/HttpServletRequest和HttpServletResponse.md"
+    },
+    {
+      "basename": "初识Servlet",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/01_初识Servlet/初识Servlet.md"
+    },
+    {
+      "basename": "初识监听器",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/04_初识监听器/初识监听器.md"
+    },
+    {
+      "basename": "监听器开发案例",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/05_监听器开发案例/监听器开发案例.md"
+    },
+    {
+      "basename": "注解方式管理Bean",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/06_注解方式管理Bean/注解方式管理Bean.md"
+    },
+    {
+      "basename": "Spring日志框架和测试支持",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/12_Spring日志框架和测试支持/Spring日志框架和测试支持.md"
+    },
+    {
+      "basename": "零XML配置事务",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/11_零XML配置事务/零XML配置事务.md"
+    },
+    {
+      "basename": "引入外部配置文件",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/05_引入外部配置文件/引入外部配置文件.md"
+    },
+    {
+      "basename": "SpringBoot整合Druid",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/SpringBoot整合Druid.md"
+    },
+    {
+      "basename": "Sping的事务管理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md"
+    },
+    {
+      "basename": "JDBCTemplate",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md"
+    },
+    {
       "basename": "SpringBoot",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
     },
     {
       "basename": "整合SpringMVC",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/09_整合SpringMVC/整合SpringMVC.md"
-    },
-    {
-      "basename": "SpringJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
     },
     {
       "basename": "常用插件",
@@ -65,14 +141,6 @@
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/05_JSP的内置对象/JSP的内置对象.md"
     },
     {
-      "basename": "JDBCTemplate",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md"
-    },
-    {
-      "basename": "Spring日志框架和测试支持",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/12_Spring日志框架和测试支持/Spring日志框架和测试支持.md"
-    },
-    {
       "basename": "SpringBoot对Bean的管理",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_Springboot对Bean的管理/SpringBoot对Bean的管理.md"
     },
@@ -95,10 +163,6 @@
     {
       "basename": "SpringBoot整合Logback",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/SpringBoot整合Logback.md"
-    },
-    {
-      "basename": "监听器开发案例",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/05_监听器开发案例/监听器开发案例.md"
     },
     {
       "basename": "SpringBoot项目配置与结构",
@@ -125,10 +189,6 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md"
     },
     {
-      "basename": "零XML配置事务",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/11_零XML配置事务/零XML配置事务.md"
-    },
-    {
       "basename": "SpringBoot单元测试",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot单元测试/SpringBoot单元测试.md"
     },
@@ -139,62 +199,6 @@
     {
       "basename": "学习路线",
       "path": "学习路线.md"
-    },
-    {
-      "basename": "JavaSE阶段",
-      "path": "01_JavaSE阶段/JavaSE阶段.md"
-    },
-    {
-      "basename": "常用类",
-      "path": "01_JavaSE阶段/B_进阶/02_常用类/常用类.md"
-    },
-    {
-      "basename": "SpringBoot异常处理",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/10_SpringBoot异常处理/SpringBoot异常处理.md"
-    },
-    {
-      "basename": "异常处理",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/14_异常处理/异常处理.md"
-    },
-    {
-      "basename": "初识JavaScript",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/03_JavaScript/01_初识JavaScript/初识JavaScript.md"
-    },
-    {
-      "basename": "BOM编程",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/03_JavaScript/06_BOM编程/BOM编程.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/03_JavaScript/JavaScript.md"
-    },
-    {
-      "basename": "Obsidian",
-      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/Obsidian.md"
-    },
-    {
-      "basename": "认识Obsidian",
-      "path": "01_JavaSE阶段/C_开发必备工具/04_Obsidian/01_认识Obsidian/认识Obsidian.md"
-    },
-    {
-      "basename": "JSP",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/JSP.md"
-    },
-    {
-      "basename": "SpringBoot整合Druid",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/SpringBoot整合Druid.md"
-    },
-    {
-      "basename": "初级开发工程师",
-      "path": "02_初级开发工程师/初级开发工程师.md"
-    },
-    {
-      "basename": "计算机基础知识",
-      "path": "03_计算机基础知识/计算机基础知识.md"
-    },
-    {
-      "basename": "Git",
-      "path": "01_JavaSE阶段/C_开发必备工具/03_Git/Git.md"
     }
   ],
   "omittedPaths": [],

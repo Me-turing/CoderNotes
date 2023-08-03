@@ -1,9 +1,6 @@
 {
   "spellcheck": false,
-  "spellcheckLanguages": [
-    "zh-CN",
-    "en"
-  ],
+  "spellcheckLanguages": null,
   "attachmentFolderPath": "./assets",
   "showLineNumber": true,
   "trashOption": "local",
