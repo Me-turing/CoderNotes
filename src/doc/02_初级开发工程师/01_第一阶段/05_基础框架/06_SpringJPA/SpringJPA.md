@@ -18,6 +18,8 @@ index: true
 
 [SpringJPA知识点](03_SpringJPA知识点/SpringJPA知识点.md)
 
+[SpringBoot整合SpringJPA](04_SpringBoot整合SpringJPA/SpringBoot整合SpringJPA.md)
+
 
 
 

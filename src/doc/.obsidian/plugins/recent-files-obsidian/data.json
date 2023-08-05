@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "SpringJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
+    },
+    {
+      "basename": "SpringBoot整合SpringJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/SpringBoot整合SpringJPA.md"
+    },
+    {
+      "basename": "image-20230805173534075",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173534075.png"
+    },
+    {
+      "basename": "Spring整合Hibernate",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/Spring整合Hibernate.md"
+    },
+    {
       "basename": "SpringJPA知识点",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md"
     },
@@ -25,20 +41,12 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/Repository接口.md"
     },
     {
-      "basename": "SpringJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
-    },
-    {
       "basename": "入门案例",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/入门案例.md"
     },
     {
       "basename": "Spring整合HibernateJPA",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md"
-    },
-    {
-      "basename": "Spring整合Hibernate",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/Spring整合Hibernate.md"
     },
     {
       "basename": "ServletContext和ServlectConfig",
@@ -187,14 +195,6 @@
     {
       "basename": "SpringBoot启动器原理分析",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md"
-    },
-    {
-      "basename": "SpringBoot快速部署",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md"
-    },
-    {
-      "basename": "SpringBoot整合模板引擎",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md"
     }
   ],
   "omittedPaths": [],

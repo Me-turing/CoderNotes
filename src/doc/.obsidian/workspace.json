@@ -24,8 +24,13 @@
             "id": "7ca1f9c0d19187e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -122,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
+              }
             }
           },
           {
@@ -147,6 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -181,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,6 +237,12 @@
   },
   "active": "7ca1f9c0d19187e1",
   "lastOpenFiles": [
+    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/SpringBoot整合SpringJPA.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805175116396.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173534075.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/Spring整合Hibernate.md",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173531881.png",
+    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/04_PagingAndSortingRepository接口/PagingAndSortingRepository接口.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_JpaRepository接口/JpaRepository接口.md",
@@ -248,13 +264,9 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/入门案例.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/Spring整合Hibernate.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/assets/image-20230803101858591.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/assets/image-20230803101439924.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/assets/image-20230803101258535.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/assets",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/assets/image-20230803101141386.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/assets/image-20230803100737404.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/assets",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/05_ServletContext和ServlectConfig/ServletContext和ServlectConfig.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/04_继承结构与生命周期/继承结构与生命周期.md",
@@ -268,11 +280,8 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/11_零XML配置事务/零XML配置事务.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/05_引入外部配置文件/引入外部配置文件.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/assets",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/07_SpringBoot整合Druid/SpringBoot整合Druid.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/10_Spring的事务管理/Sping的事务管理.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/09_JDBCTemplate/JDBCTemplate.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md",
     "未命名.canvas"
   ]
 }
