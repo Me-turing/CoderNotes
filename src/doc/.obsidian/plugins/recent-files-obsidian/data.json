@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "SpringJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
-    },
-    {
       "basename": "SpringJPA知识点",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md"
     },
     {
+      "basename": "PagingAndSortingRepository接口",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/04_PagingAndSortingRepository接口/PagingAndSortingRepository接口.md"
+    },
+    {
+      "basename": "JpaRepository接口",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_JpaRepository接口/JpaRepository接口.md"
+    },
+    {
+      "basename": "JpaSpecificationExecutor接口",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/06_JpaSpecificationExecutor接口/JpaSpecificationExecutor接口.md"
+    },
+    {
+      "basename": "CrudRepository接口",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/03_CrudRepository接口/CrudRepository接口.md"
+    },
+    {
       "basename": "Repository接口",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/Repository接口.md"
+    },
+    {
+      "basename": "SpringJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
     },
     {
       "basename": "入门案例",
@@ -179,26 +195,6 @@
     {
       "basename": "SpringBoot整合模板引擎",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/SpringBoot整合模板引擎.md"
-    },
-    {
-      "basename": "SpringBoot注解拓展",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/13_SpringBoot注解拓展/SpringBoot注解拓展.md"
-    },
-    {
-      "basename": "Spring基础",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/Spring基础.md"
-    },
-    {
-      "basename": "SpringBoot单元测试",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/11_SpringBoot单元测试/SpringBoot单元测试.md"
-    },
-    {
-      "basename": "JavaSE进阶",
-      "path": "01_JavaSE阶段/B_进阶/JavaSE进阶.md"
-    },
-    {
-      "basename": "学习路线",
-      "path": "学习路线.md"
     }
   ],
   "omittedPaths": [],
