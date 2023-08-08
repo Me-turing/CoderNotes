@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 569.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,17 +224,17 @@
   },
   "active": "63219423d4a32649",
   "lastOpenFiles": [
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113243640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113213640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113156640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113137640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113109640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113048640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113029640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113010640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808112948640.gif",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808112930640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140226640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140208640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140149640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140129640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140114640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140052640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140023640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808140009640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808135954640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808135932640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808135912640.gif",
     "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/IDEA快捷键大全.md",
     "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md",
     "assets/640.gif.md",
