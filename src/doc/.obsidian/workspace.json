@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eac38504c99283a2",
+        "id": "a468a5599aa3133b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ca1f9c0d19187e1",
+            "id": "63219423d4a32649",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 569.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,15 +221,23 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "7ca1f9c0d19187e1",
+  "active": "63219423d4a32649",
   "lastOpenFiles": [
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113243640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113213640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113156640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113137640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113109640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113048640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113029640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808113010640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808112948640.gif",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/230808112930640.gif",
     "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/IDEA快捷键大全.md",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095524692.jpeg",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095401056.jpeg",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095348740.png",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095311091.jpeg",
-    "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095256589.png",
+    "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md",
+    "assets/640.gif.md",
+    "assets",
     "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets",
     "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全",
     "02_初级开发工程师/01_第一阶段/05_基础框架/07_SLF4J日志框架/SLF4J日志框架.md",
@@ -249,17 +257,11 @@
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/00_Code.zip",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/SpringBoot整合SpringJPA.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805175116396.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173534075.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173531881.png",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_JpaRepository接口/JpaRepository接口.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_PagingAndSortingRepository接口/PagingAndSortingRepository 接口.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/06_JpaSpecificationExecutor接口/JpaSpecificationExecutor接口.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/06_JpaSpecificationExecutor接口",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_JpaRepository接口/assets/image-20230805170227667.png",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/04_PagingAndSortingRepository接口/assets/image-20230804171912246.png",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/05_ServletContext和ServlectConfig/ServletContext和ServlectConfig.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/04_继承结构与生命周期/继承结构与生命周期.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/03_乱码的处理/乱码的处理.md",
@@ -267,7 +269,6 @@
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/01_初识Servlet/初识Servlet.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/04_初识监听器/初识监听器.md",
     "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/05_监听器开发案例/监听器开发案例.md",
-    "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/06_注解方式管理Bean/注解方式管理Bean.md",
     "未命名.canvas"
   ]
 }

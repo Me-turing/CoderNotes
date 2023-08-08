@@ -53,3 +53,281 @@ index: true
 
 ### Ctrl + Shift + V：从历史选择粘贴
 
+从历史剪粘版中选择要粘贴的内容。
+
+![](assets/2023-08-08-10-12-605.gif)
+### Ctrl + D：复制行
+
+复制光标所在行。
+
+![](assets/230808105338640.gif)
+### Ctrl + Shift + C：复制文件路径
+
+复制选中文件所在路径。
+
+![](assets/230808105852640%201.gif)
+### Ctrl + Alt + Shift + C：复制引用
+
+复制包的路径，或者类的名称。
+
+![](assets/640.gif)
+### Ctrl + S：保存全部
+
+### Ctrl + Z：撤销
+
+撤销上一步操作内容。
+### Ctrl + Shift + Z：重做
+
+恢复上一步撤销内容。
+
+![](assets/230808105923640.gif)
+### Tab：缩进
+
+### Shift + Tabl：取消缩进
+
+![](assets/230808110046640.gif)
+
+### Ctrl + Alt + I：自动缩进行
+
+自动缩进至规范位置。
+
+![](assets/230808110107640.gif)
+
+### Shift + Enter：开始新行
+
+无论光标是否在行尾，都开始新的行。
+
+![](assets/230808110138640.gif)
+### Ctrl + Alt + Enter：在当前行之前开始新行
+
+![](assets/230808110217640.gif)
+### Ctrl + Y：删除行
+
+![](assets/230808110256640.gif)
+### Ctrl + Shift + U：大小写转换
+
+![](assets/230808110325640.gif)
+### Ctrl + Alt + Shift + Insert：创建临时文件
+
+可以创建各种类型的临时文件，该临时文件不会保存到磁盘中。
+
+![](assets/230808110348640.gif)
+### Shift + F4：在新窗口中打开
+
+在新窗口打开当前文件。
+
+![](assets/230808110446640.gif)
+## 光标操作
+
+### Ctrl + Left ：左移一个单词
+
+![](assets/230808110550640.gif)
+### Ctrl + Right：右移一个单词
+
+![](assets/230808110628640.gif)
+### Home：移动至行首
+
+### End：移动至行尾
+
+![](assets/230808110715640.gif)
+### Ctrl + Shift + M：移动至大括号
+
+多次按下快捷键，可以在左右两个大括号间切换。
+
+![](assets/230808110748640.gif)
+
+### `Ctrl + [`：移动至代码块开始
+
+### `Ctrl + ]`：移动至代码块末尾
+
+![](assets/230808111113640.gif)
+
+### `Alt + Down`：下一个方法
+
+### `Alt + Up`：上一个方法
+
+![](assets/230808111144640.gif)
+### `Ctrl + PageUp`：移动至页面顶部
+
+### `Ctrl + PageDown`：移动至页面底部
+
+![](assets/230808111207640.gif)
+### `PageUp`：向上翻页
+
+### `PageDown`：向下翻页
+
+![](assets/230808111228640.gif)
+
+### `Ctrl + Home`：移动至文件开头
+
+### `Ctrl + End`：移动至文件末尾
+
+![](assets/230808111247640.gif)
+## 文本选择
+
+### `Ctrl + A`：全选
+
+### `Shift + Left`：向左选择
+
+### `Shift + Right`：向右选择
+
+![](assets/230808111413640.gif)
+
+### `Ctrl + Shift + Left`：向左选择一个单词
+
+### `Ctrl + Shift + Right`：向右选择一个单词
+
+![](assets/230808111429640.gif)
+
+### `Shift + Home`：向左选择至行头
+
+### `Shift + End`：向右选择至行尾
+
+![](assets/230808111449640.gif)
+### `Shift + Up`：向上选择
+
+### `Shift + Down`：向下选择
+
+![](assets/230808111513640.gif)
+### `Ctrl + Shift + [`：选择至代码块开头
+
+### `Ctrl + Shift + ]`：选择至代码块结尾
+
+![](assets/230808111606640.gif)
+### `Ctrl + Shift + PageUp`：选择至页面顶部
+
+### `Ctrl + Shift + PageDown`：选择至页面底部
+
+![](assets/230808111626640.gif)
+### `Shift + PageUp`：向上翻页选择
+
+### `Shift + PageDown`：向下翻页选择
+
+![](assets/230808111649640.gif)
+
+### `Ctrl + Shift + Home`：选择至文件开关
+
+### `Ctrl + Shift + End`：选择至文件结尾
+
+![](assets/230808111711640.gif)
+### `Ctrl + W`：扩展选择
+
+### `Ctrl + Shift + W`：收缩选择
+
+![](assets/230808111729640.gif)
+
+## 代码折叠
+
+### `Ctrl + NumPad+`：展开代码块
+
+### `Ctrl + NumPad-`：折叠代码块
+
+![](assets/230808111759640.gif)
+
+### `Ctrl + Alt + NumPad+`：递归展开
+
+### `Ctrl + Alt + NumPad-`：递归折叠
+
+![](assets/230808111821640.gif)
+
+### `Ctrl + Shift + NumPad+`：全部展开
+
+### `Ctrl + Shift + NumPad-`：全部折叠
+
+![](assets/230808111849640.gif)
+### `Ctrl + .`：折叠选择
+
+## 多个插入符号和范围选择
+
+### `Alt + Shift + Click`：添加/删除插入符号
+
+![](assets/230808112112640.gif)
+### `Alt + Shift + Insert`：切换列选择模式
+
+![](assets/230808112131640.gif)
+
+### 双击`Ctrl` + `Up`：向上克隆插入符号
+
+按`Ctrl`键两次，然后在不松开的情况下按向上箭头键。
+
+![](assets/230808112238640.gif)
+### `Alt + Shift + G`：将插入符号添加到选择中的每一行
+
+![](assets/230808112307640.gif)
+### `Alt + J`：选择单位下次出现的位置
+
+### `Alt + Shift + J`：取消最后一次选择
+
+![](assets/230808112321640.gif)
+
+### `Ctrl + Alt + Shift + J`：选择所有出现的位置
+
+![](assets/230808112421640.gif)
+### `Alt + Shift + Middle-Click`：创建矩形选择
+
+![](assets/230808112441640.gif)
+### `Alt + Click`：拖拽以创建矩形选择区
+
+![](assets/230808112502640.gif)
+### `Ctrl + Alt + Shift + Click`：拖拽以创建多个矩形选择区
+
+![](assets/230808112720640.gif)
+## 辅助编码
+
+### `Alt + Enter`：显示建议操作
+
+该快捷键又称为“万通快捷键”，它会根据不同的语境建议不同的操作。下面这个演示只是其中的一种，还有很多种用法，你可以尝试一下。
+
+![](assets/230808112754640.gif)
+### `Ctrl + Space`：代码补全
+
+![](assets/230808112822640.gif)
+### `Ctrl + Shift + Space`：类型匹配代码补全
+
+![](assets/230808112842640.gif)
+
+### `Ctrl + Alt + Space`：第二次代码补全
+
+![](assets/230808112902640.gif)
+
+### `Ctrl + Shift + Enter`：补全当前语句
+
+![](assets/230808112930640.gif)
+
+### `Ctrl + Alt + L`：格式化代码
+
+![](assets/230808112948640.gif)
+### `Ctrl + P`：参数信息提醒
+
+![](assets/230808113010640.gif)
+### `Ctrl + Q`：快速文档
+
+![](assets/230808113029640.gif)
+
+### `Ctrl + Shift + Up`：向上移动语句
+
+### `Ctrl + Shift + Down`：向下移动语句
+
+![](assets/230808113048640.gif)
+
+### `Ctrl + Alt + Shift + Left`：向左移动元素
+
+### `Ctrl + Alt + Shift + Right`：向右移动元素
+
+![](assets/230808113109640.gif)
+
+### `Alt + Shift + Up`：向上移动队列
+
+### `Alt + Shift + Down`：向下移动队列
+
+![](assets/230808113137640.gif)
+
+### `Ctrl + /`：添加行注释
+
+![](assets/230808113156640.gif)
+### `Ctrl + Shift + /`：添加块注释
+
+![](assets/230808113213640.gif)
+### `Alt + Insert`：生产语句
+
+![](assets/230808113243640.gif)

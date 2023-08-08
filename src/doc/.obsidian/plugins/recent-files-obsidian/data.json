@@ -5,8 +5,20 @@
       "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/IDEA快捷键大全.md"
     },
     {
+      "basename": "image-20230808095348740",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095348740.png"
+    },
+    {
       "basename": "IDEA",
       "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md"
+    },
+    {
+      "basename": "image-20230808095524692",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095524692.jpeg"
+    },
+    {
+      "basename": "image-20230808095401056",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095401056.jpeg"
     },
     {
       "basename": "SLF4J日志框架",
@@ -183,22 +195,6 @@
     {
       "basename": "JSP的内置对象",
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/05_JSP的内置对象/JSP的内置对象.md"
-    },
-    {
-      "basename": "SpringBoot对Bean的管理",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_Springboot对Bean的管理/SpringBoot对Bean的管理.md"
-    },
-    {
-      "basename": "Bean的生命周期",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/03_Bean的生命周期/Bean的生命周期.md"
-    },
-    {
-      "basename": "响应处理",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/08_响应处理/响应处理.md"
-    },
-    {
-      "basename": "路径问题",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/08_路径问题/路径问题.md"
     }
   ],
   "omittedPaths": [],
