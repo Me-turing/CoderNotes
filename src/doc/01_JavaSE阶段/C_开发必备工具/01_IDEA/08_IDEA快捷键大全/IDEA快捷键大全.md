@@ -16,9 +16,9 @@ index: true
 
 该快捷键共分 16 种，可以方便的按各类查找自己需要的快捷键~~
 
-# 构建/编译
+## 构建/编译
 
-## Ctrl + F9 ：构建项目
+### Ctrl + F9 ：构建项目
 
 > 该快捷键，等同于菜单【Build】—>【Build Project】
 
@@ -28,7 +28,7 @@ index: true
 
 ![](assets/image-20230808095311091.jpeg)
 
-## Ctrl + Shift + F9 ：重新编译当前类
+### Ctrl + Shift + F9 ：重新编译当前类
 
 > 该快捷键，等同于菜单【Build】—>【Recompile ‘class name’】
 
@@ -37,19 +37,19 @@ index: true
 在IntelliJ IDEA 中打开要编译的类，执行该命令会编译当前类。
 
 ![](assets/image-20230808095401056.jpeg)
-# 文本编辑
+## 文本编辑
 
-## Ctrl + X：剪切
+### Ctrl + X：剪切
 
 剪切选中文本，若未选中则剪切当前行。
 
 ![](assets/image-20230808095524692.jpeg)
-## Ctrl + C：复制
+### Ctrl + C：复制
 
 复制选中文本，若未选中则复制当前行。
-## Ctrl + V：粘贴
+### Ctrl + V：粘贴
 
-## Ctrl + Alt + Shift + V：粘贴为纯文本
+### Ctrl + Alt + Shift + V：粘贴为纯文本
 
-## Ctrl + Shift + V：从历史选择粘贴
+### Ctrl + Shift + V：从历史选择粘贴
 
