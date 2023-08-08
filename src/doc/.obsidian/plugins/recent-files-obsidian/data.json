@@ -1,36 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "SpringJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
+      "basename": "IDEA",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md"
     },
     {
-      "basename": "SpringBoot整合SpringJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/SpringBoot整合SpringJPA.md"
+      "basename": "IDEA快捷键大全",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/IDEA快捷键大全.md"
     },
     {
-      "basename": "image-20230805173534075",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173534075.png"
+      "basename": "SLF4J日志框架",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/07_SLF4J日志框架/SLF4J日志框架.md"
+    },
+    {
+      "basename": "设计模式概述",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_设计模式概述/设计模式概述.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
+    },
+    {
+      "basename": "Spring整合HibernateJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md"
     },
     {
       "basename": "Spring整合Hibernate",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/Spring整合Hibernate.md"
     },
     {
-      "basename": "SpringJPA知识点",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md"
-    },
-    {
       "basename": "PagingAndSortingRepository接口",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/04_PagingAndSortingRepository接口/PagingAndSortingRepository接口.md"
-    },
-    {
-      "basename": "JpaRepository接口",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_JpaRepository接口/JpaRepository接口.md"
-    },
-    {
-      "basename": "JpaSpecificationExecutor接口",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/06_JpaSpecificationExecutor接口/JpaSpecificationExecutor接口.md"
     },
     {
       "basename": "CrudRepository接口",
@@ -45,8 +45,28 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/入门案例.md"
     },
     {
-      "basename": "Spring整合HibernateJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md"
+      "basename": "SpringJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
+    },
+    {
+      "basename": "SpringBoot整合SpringJPA",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/SpringBoot整合SpringJPA.md"
+    },
+    {
+      "basename": "image-20230805173534075",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173534075.png"
+    },
+    {
+      "basename": "SpringJPA知识点",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md"
+    },
+    {
+      "basename": "JpaRepository接口",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_JpaRepository接口/JpaRepository接口.md"
+    },
+    {
+      "basename": "JpaSpecificationExecutor接口",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/06_JpaSpecificationExecutor接口/JpaSpecificationExecutor接口.md"
     },
     {
       "basename": "ServletContext和ServlectConfig",
@@ -179,22 +199,6 @@
     {
       "basename": "路径问题",
       "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/08_路径问题/路径问题.md"
-    },
-    {
-      "basename": "请求转发和响应重定向",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/07_请求转发和响应重定向/请求转发和响应重定向.md"
-    },
-    {
-      "basename": "SpringBoot整合Logback",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/06_SpringBoot整合Logback/SpringBoot整合Logback.md"
-    },
-    {
-      "basename": "SpringBoot项目配置与结构",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/04_SpringBoot项目配置与结构/SpringBoot项目配置与结构.md"
-    },
-    {
-      "basename": "SpringBoot启动器原理分析",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/03_SpringBoot启动器原理分析/SpringBoot启动器原理分析.md"
     }
   ],
   "omittedPaths": [],
