@@ -1,6 +1,70 @@
 {
   "recentFiles": [
     {
+      "basename": "UML图",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_UML图/UML图.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
+    },
+    {
+      "basename": "设计模式概述",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_设计模式概述/设计模式概述.md"
+    },
+    {
+      "basename": "IDEA",
+      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md"
+    },
+    {
+      "basename": "开发必备工具",
+      "path": "01_JavaSE阶段/C_开发必备工具/开发必备工具.md"
+    },
+    {
+      "basename": "JavaSE阶段",
+      "path": "01_JavaSE阶段/JavaSE阶段.md"
+    },
+    {
+      "basename": "数据库和JDBC",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/数据库和JDBC.md"
+    },
+    {
+      "basename": "前端技术",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/前端技术.md"
+    },
+    {
+      "basename": "JavaEE技术",
+      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md"
+    },
+    {
+      "basename": "基础框架",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md"
+    },
+    {
+      "basename": "SLF4J日志框架",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/07_SLF4J日志框架/SLF4J日志框架.md"
+    },
+    {
+      "basename": "前端架构拓展",
+      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展/前端架构拓展.md"
+    },
+    {
+      "basename": "MySQL入门",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/02_MySQL入门/MySQL入门.md"
+    },
+    {
+      "basename": "概念与安装",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/MySQL.md"
+    },
+    {
+      "basename": "Oracle",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/03_Oracle/Oracle.md"
+    },
+    {
       "basename": "IDEA快捷键大全",
       "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/IDEA快捷键大全.md"
     },
@@ -9,28 +73,12 @@
       "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095348740.png"
     },
     {
-      "basename": "IDEA",
-      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md"
-    },
-    {
       "basename": "image-20230808095524692",
       "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095524692.jpeg"
     },
     {
       "basename": "image-20230808095401056",
       "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095401056.jpeg"
-    },
-    {
-      "basename": "SLF4J日志框架",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/07_SLF4J日志框架/SLF4J日志框架.md"
-    },
-    {
-      "basename": "设计模式概述",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_设计模式概述/设计模式概述.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
     },
     {
       "basename": "Spring整合HibernateJPA",
@@ -151,50 +199,6 @@
     {
       "basename": "MyBatisPlus",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/MyBatisPlus.md"
-    },
-    {
-      "basename": "SpringBoot整合Mybatis-plus",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/16_SpringBoot整合Mybatis-plus/SpringBoot整合Mybatis-plus.md"
-    },
-    {
-      "basename": "MyBatisPlus快速上手",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md"
-    },
-    {
-      "basename": "常用注解与条件构造器",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/03_常用注解与条件构造器/常用注解与条件构造器.md"
-    },
-    {
-      "basename": "BaseMapper与IService",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/02_BaseMapper与IService/BaseMapper与IService.md"
-    },
-    {
-      "basename": "文件的上传",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/11_文件的上传/文件的上传.md"
-    },
-    {
-      "basename": "SpringBoot文件上传",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/15_SpringBoot文件上传/SpringBoot文件上传.md"
-    },
-    {
-      "basename": "SpringBoot整合JSP",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md"
-    },
-    {
-      "basename": "SpringBoot热更新与项目打包",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot热更新与项目打包/SpringBoot热更新与项目打包.md"
-    },
-    {
-      "basename": "基础框架",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md"
-    },
-    {
-      "basename": "SpringBoot静态资源",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/14_SpringBoot静态资源/SpringBoot静态资源.md"
-    },
-    {
-      "basename": "JSP的内置对象",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/04_JSP/05_JSP的内置对象/JSP的内置对象.md"
     }
   ],
   "omittedPaths": [],
