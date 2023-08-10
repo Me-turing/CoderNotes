@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "设计模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
+    },
+    {
+      "basename": "六大设计原则 (SOLID)",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/03_六大设计原则 (SOLID)/六大设计原则 (SOLID).md"
+    },
+    {
       "basename": "UML图",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_UML图/UML图.md"
     },
     {
-      "basename": "设计模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
+      "basename": "image-20230810105910894",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/03_六大设计原则 (SOLID)/assets/image-20230810105910894.png"
+    },
+    {
+      "basename": "image-20230810105558237",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/03_六大设计原则 (SOLID)/assets/image-20230810105558237.png"
     },
     {
       "basename": "设计模式概述",
@@ -187,18 +199,6 @@
     {
       "basename": "SpringBoot",
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/SpringBoot.md"
-    },
-    {
-      "basename": "整合SpringMVC",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/09_整合SpringMVC/整合SpringMVC.md"
-    },
-    {
-      "basename": "常用插件",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/04_常用插件/常用插件.md"
-    },
-    {
-      "basename": "MyBatisPlus",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/MyBatisPlus.md"
     }
   ],
   "omittedPaths": [],
