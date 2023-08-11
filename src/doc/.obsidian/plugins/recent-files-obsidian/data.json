@@ -1,20 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "六大设计原则(SOLID)",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/03_六大设计原则(SOLID)/六大设计原则(SOLID).md"
+      "basename": "第一阶段",
+      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
+    },
+    {
+      "basename": "设计模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
     },
     {
       "basename": "二十三种设计模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md"
     },
     {
+      "basename": "01_单例模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/01_单例模式.md"
+    },
+    {
+      "basename": "02_工厂方法模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/02_工厂方法模式.md"
+    },
+    {
       "basename": "05_原型模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/05_原型模式.md"
     },
     {
+      "basename": "04_建造者模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/04_建造者模式.md"
+    },
+    {
+      "basename": "枚举",
+      "path": "01_JavaSE阶段/B_进阶/07_JUnit_注解_枚举/03_枚举/枚举.md"
+    },
+    {
+      "basename": "SpringBoot整合JSP",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md"
+    },
+    {
+      "basename": "SpringBoot热更新与项目打包",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot热更新与项目打包/SpringBoot热更新与项目打包.md"
+    },
+    {
       "basename": "前置知识",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/前置知识.md"
+    },
+    {
+      "basename": "六大设计原则(SOLID)",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/03_六大设计原则(SOLID)/六大设计原则(SOLID).md"
+    },
+    {
+      "basename": "SpringBoot整合Mybatis与分页",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis与分页/SpringBoot整合Mybatis与分页.md"
+    },
+    {
+      "basename": "SpringBoot快速部署",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md"
+    },
+    {
+      "basename": "MyBatisPlus快速上手",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md"
+    },
+    {
+      "basename": "常用注解与条件构造器",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/03_常用注解与条件构造器/常用注解与条件构造器.md"
+    },
+    {
+      "basename": "常用插件",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/04_常用插件/常用插件.md"
+    },
+    {
+      "basename": "BaseMapper与IService",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/02_BaseMapper与IService/BaseMapper与IService.md"
+    },
+    {
+      "basename": "搭建Mybatis项目环境",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md"
+    },
+    {
+      "basename": "使用FreeMarker模板引擎",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md"
+    },
+    {
+      "basename": "DAO",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/06_DAO/DAO.md"
+    },
+    {
+      "basename": "连接池的使用",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/07_连接池的使用/连接池的使用.md"
+    },
+    {
+      "basename": "常用API",
+      "path": "01_JavaSE阶段/B_进阶/08_反射/02_常用API/常用API.md"
+    },
+    {
+      "basename": "初识反射",
+      "path": "01_JavaSE阶段/B_进阶/08_反射/01_初识反射/初识反射.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "01_JavaSE阶段/B_进阶/08_反射/03_面试题/面试题.md"
+    },
+    {
+      "basename": "线程常见方法",
+      "path": "01_JavaSE阶段/B_进阶/05_多线程/04_线程常见方法/线程常见方法.md"
+    },
+    {
+      "basename": "线程的生命周期",
+      "path": "01_JavaSE阶段/B_进阶/05_多线程/03_线程的生命周期/线程的生命周期.md"
+    },
+    {
+      "basename": "创建线程的方式",
+      "path": "01_JavaSE阶段/B_进阶/05_多线程/02_创建多线程的方式/创建线程的方式.md"
+    },
+    {
+      "basename": "线程通信",
+      "path": "01_JavaSE阶段/B_进阶/05_多线程/06_线程通信/线程通信.md"
+    },
+    {
+      "basename": "线程安全",
+      "path": "01_JavaSE阶段/B_进阶/05_多线程/05_线程安全/线程安全.md"
     },
     {
       "basename": "UML图",
@@ -29,28 +133,8 @@
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/03_六大设计原则(SOLID)/assets/image-20230810101807466.png"
     },
     {
-      "basename": "设计模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
-    },
-    {
-      "basename": "第一阶段",
-      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
-    },
-    {
       "basename": "03_抽象工厂模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/03_抽象工厂模式.md"
-    },
-    {
-      "basename": "02_工厂方法模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/02_工厂方法模式.md"
-    },
-    {
-      "basename": "04_建造者模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/04_建造者模式.md"
-    },
-    {
-      "basename": "01_单例模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/01_单例模式.md"
     },
     {
       "basename": "IDEA",
@@ -115,90 +199,6 @@
     {
       "basename": "image-20230808095524692",
       "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095524692.jpeg"
-    },
-    {
-      "basename": "image-20230808095401056",
-      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095401056.jpeg"
-    },
-    {
-      "basename": "Spring整合HibernateJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md"
-    },
-    {
-      "basename": "Spring整合Hibernate",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/01_Spring整合Hibernate/Spring整合Hibernate.md"
-    },
-    {
-      "basename": "PagingAndSortingRepository接口",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/04_PagingAndSortingRepository接口/PagingAndSortingRepository接口.md"
-    },
-    {
-      "basename": "CrudRepository接口",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/03_CrudRepository接口/CrudRepository接口.md"
-    },
-    {
-      "basename": "Repository接口",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/02_Repository接口/Repository接口.md"
-    },
-    {
-      "basename": "入门案例",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/01_入门案例/入门案例.md"
-    },
-    {
-      "basename": "SpringJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/SpringJPA.md"
-    },
-    {
-      "basename": "SpringBoot整合SpringJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/SpringBoot整合SpringJPA.md"
-    },
-    {
-      "basename": "image-20230805173534075",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/04_SpringBoot整合SpringJPA/assets/image-20230805173534075.png"
-    },
-    {
-      "basename": "SpringJPA知识点",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/SpringJPA知识点.md"
-    },
-    {
-      "basename": "JpaRepository接口",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/05_JpaRepository接口/JpaRepository接口.md"
-    },
-    {
-      "basename": "JpaSpecificationExecutor接口",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/03_SpringJPA知识点/06_JpaSpecificationExecutor接口/JpaSpecificationExecutor接口.md"
-    },
-    {
-      "basename": "ServletContext和ServlectConfig",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/05_ServletContext和ServlectConfig/ServletContext和ServlectConfig.md"
-    },
-    {
-      "basename": "继承结构与生命周期",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/04_继承结构与生命周期/继承结构与生命周期.md"
-    },
-    {
-      "basename": "乱码的处理",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/03_乱码的处理/乱码的处理.md"
-    },
-    {
-      "basename": "HttpServletRequest和HttpServletResponse",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/02_HttpServletRequest和HttpServlet/HttpServletRequest和HttpServletResponse.md"
-    },
-    {
-      "basename": "初识Servlet",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/03_Servlet/01_初识Servlet/初识Servlet.md"
-    },
-    {
-      "basename": "初识监听器",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/04_初识监听器/初识监听器.md"
-    },
-    {
-      "basename": "监听器开发案例",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/05_过滤器和监听器/05_监听器开发案例/监听器开发案例.md"
-    },
-    {
-      "basename": "注解方式管理Bean",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/06_注解方式管理Bean/注解方式管理Bean.md"
     }
   ],
   "omittedPaths": [],
