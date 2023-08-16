@@ -64,7 +64,7 @@ jobs:
                   git config user.name "SEVENTEEN"
                   git add .
                   git commit -m "Update build"
-                  git push origin main # 推送更改到仓库 B 的 main 分支
+                  ACCESS_TOKEN=$(which echo) git push origin main # 推送更改到仓库 B 的 main 分支
               env:
                   GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
