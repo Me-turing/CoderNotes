@@ -59,7 +59,7 @@ jobs:
 
             - name: Commit and Push to Repository B
               run: |
-                  cd repo-b
+                  cd CodeNotes
                   git config user.email "2339989978@qq.com"
                   git config user.name "SEVENTEEN"
                   git add .
