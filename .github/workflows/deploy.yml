@@ -51,28 +51,58 @@ jobs:
               env:
                   NODE_OPTIONS: '--max-old-space-size=6144'
 
-            - name: Clone Repository B
-              run: git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/Me-turing/CodeNotes.git
-
-            - name: Copy Build Output
-              run: cp -r src/.vuepress/dist CodeNotes/
-
-            - name: Commit and Push to Repository B
-              run: |
-                  cd CodeNotes
-                  git config user.email "2339989978@qq.com"
-                  git config user.name "SEVENTEEN"
-                  git add .
-                  git commit -m "Update build"
-                  git push origin main # 推送更改到仓库 B 的 main 分支
+            # 部署到 GitHub Pages
+            - name: Deploy
+              uses: crazy-max/ghaction-github-pages@v2
               env:
-                  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+                  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }} # ACCESS_TOKEN 是创建的 Secret 名称，替换为你自己创建的名称
+              with:
+                  target-branch: gh-pages # 部署到 gh-pages 分支，master 分支存放的是项目源码，而 gh-pages 分支则用来存放生成的静态文件
+                  build_dir: src/.vuepress/dist # vuepress 生成的静态文件存放的地方
+    sync:
+        needs: build-and-deploy
+        runs-on: ubuntu-latest
+        steps:
+            - name: Sync to Gitee
+              uses: wearerequired/git-mirror-action@master
+              env:
+                  SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
+              with:
+                  # 来源仓库
+                  source-repo: "git@github.com:Me-turing/CoderNotes-Doc.git"
+                  # 目标仓库
+                  destination-repo: "git@github.com:Me-turing/CodeNotes.git"
+    reload-pages:
+        needs: sync
+        runs-on: ubuntu-latest
+        steps:
+            - name: Build Gitee Pages
+              uses: yanglbme/gitee-pages-action@main
+              with:
+                  # 注意替换为你的 Gitee 用户名
+                  gitee-username: SEVENTEEN
+                  # 注意在 Settings->Secrets 配置 GITEE_PASSWORD
+                  gitee-password: ${{ secrets.GITEE_PASSWORD }}
+                  # 注意替换为你的 Gitee 仓库，仓库名严格区分大小写，请准确填写，否则会出错
+                  gitee-repo: Me-turing/CodeNotes
+                  # 要部署的分支，默认是 master，若是其他分支，则需要指定（指定的分支必须存在）
+                  branch: gh_pages
 
-#            # 部署到 GitHub Pages
-#            - name: Deploy
-#              uses: crazy-max/ghaction-github-pages@v2
+#            - name: Clone Repository B
+#              run: git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/Me-turing/CodeNotes.git
+#
+#            - name: Copy Build Output
+#              run: cp -r src/.vuepress/dist CodeNotes/
+#
+#            - name: Commit and Push to Repository B
+#              run: |
+#                  cd CodeNotes
+#                  git config user.email "2339989978@qq.com"
+#                  git config user.name "SEVENTEEN"
+#                  git add .
+#                  git commit -m "Update build"
+#                  git push origin main # 推送更改到仓库 B 的 main 分支
 #              env:
-#                  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }} # ACCESS_TOKEN 是创建的 Secret 名称，替换为你自己创建的名称
-#              with:
-#                  target-branch: gh-pages # 部署到 gh-pages 分支，master 分支存放的是项目源码，而 gh-pages 分支则用来存放生成的静态文件
-#                  build_dir: src/.vuepress/dist # vuepress 生成的静态文件存放的地方
+#                  GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+
