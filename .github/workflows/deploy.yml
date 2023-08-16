@@ -71,7 +71,7 @@ jobs:
                   # 来源仓库
                   source-repo: "git@github.com:Me-turing/CoderNotes-Doc.git"
                   # 目标仓库
-                  destination-repo: "git@github.com:Me-turing/CodeNotes.git"
+                  destination-repo: "git@github.com:Me-turing/CoderNotes.git"
                   source-branch: "gh-pages"
     reload-pages:
         needs: sync
