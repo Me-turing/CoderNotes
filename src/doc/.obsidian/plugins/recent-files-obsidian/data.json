@@ -9,30 +9,6 @@
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md"
     },
     {
-      "basename": "数据结构-栈",
-      "path": "01_JavaSE阶段/B_进阶/03_集合/09_数据结构-栈/数据结构-栈.md"
-    },
-    {
-      "basename": "Set接口",
-      "path": "01_JavaSE阶段/B_进阶/03_集合/06_Set接口/Set接口.md"
-    },
-    {
-      "basename": "队列",
-      "path": "01_JavaSE阶段/B_进阶/03_集合/13_队列/队列.md"
-    },
-    {
-      "basename": "比较器",
-      "path": "01_JavaSE阶段/B_进阶/03_集合/05_比较器/比较器.md"
-    },
-    {
-      "basename": "Log4j日志框架",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/08_Log4j日志框架/Log4j日志框架.md"
-    },
-    {
-      "basename": "JDBC",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/JDBC.md"
-    },
-    {
       "basename": "03_建造者模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/03_建造者模式.md"
     },
@@ -71,10 +47,6 @@
     {
       "basename": "设计模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
-    },
-    {
-      "basename": "枚举",
-      "path": "01_JavaSE阶段/B_进阶/07_JUnit_注解_枚举/03_枚举/枚举.md"
     },
     {
       "basename": "SpringBoot整合JSP",
@@ -121,64 +93,8 @@
       "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md"
     },
     {
-      "basename": "DAO",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/06_DAO/DAO.md"
-    },
-    {
-      "basename": "连接池的使用",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/07_连接池的使用/连接池的使用.md"
-    },
-    {
-      "basename": "常用API",
-      "path": "01_JavaSE阶段/B_进阶/08_反射/02_常用API/常用API.md"
-    },
-    {
-      "basename": "初识反射",
-      "path": "01_JavaSE阶段/B_进阶/08_反射/01_初识反射/初识反射.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "01_JavaSE阶段/B_进阶/08_反射/03_面试题/面试题.md"
-    },
-    {
-      "basename": "线程常见方法",
-      "path": "01_JavaSE阶段/B_进阶/05_多线程/04_线程常见方法/线程常见方法.md"
-    },
-    {
-      "basename": "线程的生命周期",
-      "path": "01_JavaSE阶段/B_进阶/05_多线程/03_线程的生命周期/线程的生命周期.md"
-    },
-    {
-      "basename": "创建线程的方式",
-      "path": "01_JavaSE阶段/B_进阶/05_多线程/02_创建多线程的方式/创建线程的方式.md"
-    },
-    {
-      "basename": "线程通信",
-      "path": "01_JavaSE阶段/B_进阶/05_多线程/06_线程通信/线程通信.md"
-    },
-    {
-      "basename": "线程安全",
-      "path": "01_JavaSE阶段/B_进阶/05_多线程/05_线程安全/线程安全.md"
-    },
-    {
       "basename": "image-20230810101807466",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/03_六大设计原则(SOLID)/assets/image-20230810101807466.png"
-    },
-    {
-      "basename": "IDEA",
-      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/IDEA.md"
-    },
-    {
-      "basename": "开发必备工具",
-      "path": "01_JavaSE阶段/C_开发必备工具/开发必备工具.md"
-    },
-    {
-      "basename": "JavaSE阶段",
-      "path": "01_JavaSE阶段/JavaSE阶段.md"
-    },
-    {
-      "basename": "数据库和JDBC",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/数据库和JDBC.md"
     },
     {
       "basename": "前端技术",
