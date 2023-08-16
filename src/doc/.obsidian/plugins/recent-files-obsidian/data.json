@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "数据结构-栈",
+      "path": "01_JavaSE阶段/B_进阶/03_集合/09_数据结构-栈/数据结构-栈.md"
+    },
+    {
+      "basename": "Set接口",
+      "path": "01_JavaSE阶段/B_进阶/03_集合/06_Set接口/Set接口.md"
+    },
+    {
+      "basename": "队列",
+      "path": "01_JavaSE阶段/B_进阶/03_集合/13_队列/队列.md"
+    },
+    {
+      "basename": "比较器",
+      "path": "01_JavaSE阶段/B_进阶/03_集合/05_比较器/比较器.md"
+    },
+    {
+      "basename": "Log4j日志框架",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/08_Log4j日志框架/Log4j日志框架.md"
+    },
+    {
+      "basename": "JDBC",
+      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/02_JDBC/JDBC.md"
+    },
+    {
       "basename": "二十三种设计模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md"
     },
@@ -175,26 +199,6 @@
     {
       "basename": "MySQL入门",
       "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/02_MySQL入门/MySQL入门.md"
-    },
-    {
-      "basename": "概念与安装",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/01_概念与安装/概念与安装.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/01_MySQL/MySQL.md"
-    },
-    {
-      "basename": "Oracle",
-      "path": "02_初级开发工程师/01_第一阶段/02_数据库和JDBC/03_Oracle/Oracle.md"
-    },
-    {
-      "basename": "IDEA快捷键大全",
-      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/IDEA快捷键大全.md"
-    },
-    {
-      "basename": "image-20230808095348740",
-      "path": "01_JavaSE阶段/C_开发必备工具/01_IDEA/08_IDEA快捷键大全/assets/image-20230808095348740.png"
     }
   ],
   "omittedPaths": [],
