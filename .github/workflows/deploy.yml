@@ -63,10 +63,10 @@ sync:
     runs-on: ubuntu-latest
     steps:
         - name: Checkout Repository
-        uses: actions/checkout@v2
+          uses: actions/checkout@v2
 
-      - name: Sync Gh-Pages to CodeNotes
-        run: |
+        - name: Sync Gh-Pages to CodeNotes
+          run: |
               git clone https://github.com/Me-turing/CoderNotes-Doc.git temp-repo
               cd temp-repo
               git checkout gh-pages
@@ -79,7 +79,7 @@ sync:
               git add .
               git commit -m "Sync Gh-Pages"
               git push origin main
-        env:
+          env:
             GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
 #    reload-pages:
