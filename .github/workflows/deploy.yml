@@ -59,7 +59,8 @@ jobs:
               with:
                   target-branch: gh-pages # 部署到 gh-pages 分支，master 分支存放的是项目源码，而 gh-pages 分支则用来存放生成的静态文件
                   build_dir: src/.vuepress/dist # vuepress 生成的静态文件存放的地方
-sync:
+    sync:
+    needs: build-and-deploy
     runs-on: ubuntu-latest
     steps:
         - name: Checkout Repository
@@ -71,7 +72,7 @@ sync:
               cd temp-repo
               git checkout gh-pages
               mkdir ../CodeNotes
-              cp -r src/.vuepress/dist/* ../CodeNotes
+              cp -r .vuepress/dist/* ../CodeNotes
               cd ..
               rm -rf temp-repo
               git config user.email "2339989978@qq.com"
@@ -80,7 +81,7 @@ sync:
               git commit -m "Sync Gh-Pages"
               git push origin main
           env:
-            GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+              GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
 #    reload-pages:
 #        needs: sync
