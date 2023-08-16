@@ -72,7 +72,7 @@ jobs:
                   cd temp-repo
                   git checkout gh-pages
                   mkdir ../CodeNotes
-                  cp -r .vuepress/dist/* ../CodeNotes
+                  cp -r src/.vuepress/dist/* ../CodeNotes
                   cd ..
                   rm -rf temp-repo
                   git config user.email "2339989978@qq.com"
