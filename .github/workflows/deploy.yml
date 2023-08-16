@@ -60,8 +60,8 @@ jobs:
             - name: Commit and Push to Repository B
               run: |
                   cd repo-b
-                  git config user.email "actions@example.com"
-                  git config user.name "GitHub Actions"
+                  git config user.email "2339989978@qq.com"
+                  git config user.name "SEVENTEEN"
                   git add .
                   git commit -m "Update build"
                   git push origin main # 推送更改到仓库 B 的 main 分支
