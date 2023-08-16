@@ -52,7 +52,7 @@ jobs:
                   NODE_OPTIONS: '--max-old-space-size=6144'
 
             - name: Clone Repository B
-              run: git clone https://github.com/Me-turing/CodeNotes.git
+              run: git clone https://${{ secrets.ACCESS_TOKEN }}@github.com/Me-turing/CodeNotes.git
 
             - name: Copy Build Output
               run: cp -r src/.vuepress/dist CodeNotes/
