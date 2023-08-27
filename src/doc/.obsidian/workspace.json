@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md",
+                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md"
+                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md",
+                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md",
+                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md",
+                "file": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 569.5
+    "width": 251.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,13 +218,14 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "random-note:开始漫游笔记": false,
+      "obsidian-memos:Memos": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-memos:Memos": false
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b7a35bc1f4510717",
+  "active": "1344024e139a925f",
   "lastOpenFiles": [
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153856447.png",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153527069.png",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153339166.png",
@@ -233,7 +235,6 @@
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820145728829.png",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md",
-    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md",
     "02_初级开发工程师/01_第一阶段/03_前端技术/01_HTML/01_初识HTML/image/image_IGXpff5_Gt.png",
     "02_初级开发工程师/01_第一阶段/01_阿里代码规范/assets/阿里规约.pdf",
     "02_初级开发工程师/01_第一阶段/01_阿里代码规范/阿里代码规范.md",
@@ -241,7 +242,6 @@
     "02_初级开发工程师/01_第一阶段/01_阿里代码规范",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/07_其他新特性/image/image_6I2CnTU5bB.png",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/04_StreamAPI/image/image_Zz0ofLXBTT.png",
-    "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/04_StreamAPI/image/image_9nEOlLu3Oe.png",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/07_其他新特性/image",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/07_其他新特性/其他新特性.md",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/05_Optional类/Optional类.md",

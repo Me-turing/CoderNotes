@@ -1,124 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "05_代理模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md"
-    },
-    {
-      "basename": "Spring整合HibernateJPA",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md"
-    },
-    {
       "basename": "二十三种设计模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md"
     },
     {
-      "basename": "03_建造者模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/03_建造者模式.md"
-    },
-    {
-      "basename": "设计模式概述",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/01_设计模式概述/设计模式概述.md"
-    },
-    {
-      "basename": "02_工厂模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/02_工厂模式.md"
-    },
-    {
-      "basename": "工厂方法模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/assets/工厂方法模式.jpg"
-    },
-    {
-      "basename": "01_单例模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/01_单例模式.md"
-    },
-    {
-      "basename": "04_原型模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/04_原型模式.md"
-    },
-    {
-      "basename": "UML图",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/02_UML图/UML图.md"
-    },
-    {
-      "basename": "六大设计原则(SOLID)",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/03_六大设计原则(SOLID)/六大设计原则(SOLID).md"
-    },
-    {
-      "basename": "第一阶段",
-      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
-    },
-    {
-      "basename": "设计模式",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/设计模式.md"
-    },
-    {
-      "basename": "SpringBoot整合JSP",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/01_SpringBoot整合JSP/SpringBoot整合JSP.md"
-    },
-    {
-      "basename": "SpringBoot热更新与项目打包",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/09_SpringBoot热更新与项目打包/SpringBoot热更新与项目打包.md"
-    },
-    {
-      "basename": "前置知识",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/前置知识.md"
-    },
-    {
-      "basename": "SpringBoot整合Mybatis与分页",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/05_SpringBoot整合Mybatis与分页/SpringBoot整合Mybatis与分页.md"
-    },
-    {
-      "basename": "SpringBoot快速部署",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/02_SpringBoot快速部署/SpringBoot快速部署.md"
-    },
-    {
-      "basename": "MyBatisPlus快速上手",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md"
-    },
-    {
-      "basename": "常用注解与条件构造器",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/03_常用注解与条件构造器/常用注解与条件构造器.md"
-    },
-    {
-      "basename": "常用插件",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/04_常用插件/常用插件.md"
-    },
-    {
-      "basename": "BaseMapper与IService",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/02_BaseMapper与IService/BaseMapper与IService.md"
-    },
-    {
-      "basename": "搭建Mybatis项目环境",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/01_Mybatis基础/02_搭建Mybatis项目环境/搭建Mybatis项目环境.md"
-    },
-    {
-      "basename": "使用FreeMarker模板引擎",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/08_SpringBoot整合模板引擎/02_使用FreeMarker模板引擎/使用FreeMarker模板引擎.md"
-    },
-    {
-      "basename": "image-20230810101807466",
-      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/01_前置知识/03_六大设计原则(SOLID)/assets/image-20230810101807466.png"
-    },
-    {
-      "basename": "前端技术",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/前端技术.md"
-    },
-    {
-      "basename": "JavaEE技术",
-      "path": "02_初级开发工程师/01_第一阶段/04_JavaEE技术/JavaEE技术.md"
-    },
-    {
-      "basename": "基础框架",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/基础框架.md"
-    },
-    {
-      "basename": "SLF4J日志框架",
-      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/07_SLF4J日志框架/SLF4J日志框架.md"
-    },
-    {
-      "basename": "前端架构拓展",
-      "path": "02_初级开发工程师/01_第一阶段/03_前端技术/9_前端架构拓展/前端架构拓展.md"
+      "basename": "05_代理模式",
+      "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md"
     }
   ],
   "omittedPaths": [],
