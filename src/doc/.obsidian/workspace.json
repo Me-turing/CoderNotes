@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "19a84eee3fe64478",
+        "id": "cc147f680f1afcf4",
         "type": "tabs",
         "children": [
           {
-            "id": "b7a35bc1f4510717",
+            "id": "fd588925f72b5332",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_JavaSE阶段/B_进阶/03_集合/07_Map接口/Map接口.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -113,9 +108,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01_JavaSE阶段/B_进阶/03_集合/07_Map接口/Map接口.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +133,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01_JavaSE阶段/B_进阶/03_集合/07_Map接口/Map接口.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -175,7 +167,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_JavaSE阶段/B_进阶/03_集合/07_Map接口/Map接口.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +183,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_JavaSE阶段/B_进阶/03_集合/07_Map接口/Map接口.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 253.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,27 +212,30 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b7a35bc1f4510717",
+  "active": "fd588925f72b5332",
   "lastOpenFiles": [
-    "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/04_StreamAPI/StreamAPI.md",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/06_桥接模式.md",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/05_代理模式.md",
-    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153856447.png",
-    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153527069.png",
-    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153339166.png",
-    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153230588.png",
-    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820153103292.png",
-    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820150040257.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009120041041.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009115759155.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009115225946.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009113521686.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009111159828.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009114047543.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009115137437.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009114903185.png",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20230820145728829.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets/image-20231009110417078.png",
+    "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/01_创建型模式/02_工厂模式.md",
+    "01_JavaSE阶段/B_进阶/03_集合/07_Map接口/Map接口.md",
+    "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/04_StreamAPI/StreamAPI.md",
     "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/02_结构型模式/assets",
     "02_初级开发工程师/01_第一阶段/05_基础框架/06_SpringJPA/02_Spring整合HibernateJPA/Spring整合HibernateJPA.md",
-    "02_初级开发工程师/01_第一阶段/03_前端技术/01_HTML/01_初识HTML/image/image_IGXpff5_Gt.png",
     "02_初级开发工程师/01_第一阶段/01_阿里代码规范/assets/阿里规约.pdf",
     "02_初级开发工程师/01_第一阶段/01_阿里代码规范/阿里代码规范.md",
     "02_初级开发工程师/01_第一阶段/01_阿里代码规范/assets",
     "02_初级开发工程师/01_第一阶段/01_阿里代码规范",
-    "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/07_其他新特性/image/image_6I2CnTU5bB.png",
-    "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/04_StreamAPI/image/image_Zz0ofLXBTT.png",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/07_其他新特性/image",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/07_其他新特性/其他新特性.md",
     "01_JavaSE阶段/D_JDK新特性/01_JDK8新特性/05_Optional类/Optional类.md",
@@ -266,10 +259,6 @@
     "01_JavaSE阶段/C_开发必备工具/03_Git/03_GitHub远程库常用操作/GitHub远程库常用操作.md",
     "01_JavaSE阶段/C_开发必备工具/03_Git/02_Git本地库实战/Git本地库实战.md",
     "01_JavaSE阶段/C_开发必备工具/02_Maven/04_继承与聚合/继承与聚合.md",
-    "01_JavaSE阶段/C_开发必备工具/02_Maven/03_Maven的核心概念/Maven的核心概念.md",
-    "01_JavaSE阶段/C_开发必备工具/03_Git/01_初识Git/初识Git.md",
-    "01_JavaSE阶段/C_开发必备工具/02_Maven/02_Maven的使用/Maven的使用.md",
-    "01_JavaSE阶段/C_开发必备工具/02_Maven/01_初识Maven/初识Maven.md",
     "未命名.canvas"
   ]
 }
