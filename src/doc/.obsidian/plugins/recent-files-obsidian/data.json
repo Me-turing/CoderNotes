@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "注解方式管理Bean",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/06_注解方式管理Bean/注解方式管理Bean.md"
+    },
+    {
+      "basename": "Bean的自动注入",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/04_Bean的自动注入/Bean的自动注入.md"
+    },
+    {
+      "basename": "MyBatisPlus快速上手",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md"
+    },
+    {
+      "basename": "BaseMapper与IService",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/02_BaseMapper与IService/BaseMapper与IService.md"
+    },
+    {
+      "basename": "常用注解与条件构造器",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/03_常用注解与条件构造器/常用注解与条件构造器.md"
+    },
+    {
+      "basename": "SpringBoot对Bean的管理",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/05_SpringBoot/12_Springboot对Bean的管理/SpringBoot对Bean的管理.md"
+    },
+    {
+      "basename": "常见注解",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/07_常见注解/常见注解.md"
+    },
+    {
+      "basename": "其他注解",
+      "path": "02_初级开发工程师/01_第一阶段/05_基础框架/04_SpringMVC/15_其他注解/其他注解.md"
+    },
+    {
       "basename": "二十三种设计模式",
       "path": "02_初级开发工程师/01_第一阶段/06_设计模式/02_二十三种设计模式/二十三种设计模式.md"
+    },
+    {
+      "basename": "高级开发工程师",
+      "path": "05_高级开发工程师/高级开发工程师.md"
+    },
+    {
+      "basename": "中级开发工程师",
+      "path": "04_中级开发工程师/中级开发工程师.md"
+    },
+    {
+      "basename": "计算机基础知识",
+      "path": "03_计算机基础知识/计算机基础知识.md"
+    },
+    {
+      "basename": "第一阶段",
+      "path": "02_初级开发工程师/01_第一阶段/第一阶段.md"
+    },
+    {
+      "basename": "初级开发工程师",
+      "path": "02_初级开发工程师/初级开发工程师.md"
     },
     {
       "basename": "11_享元模式",
