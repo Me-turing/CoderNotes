@@ -1,0 +1,40 @@
+import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{r as t,o as i,c as o,d as p,e as n,b as l,w as c,f as a}from"./app-71f45f98.js";const r="/CoderNotes/assets/image-20230804141546241-4669274e.png",d="/CoderNotes/assets/image-20230804171815045-9ea63315.png",u="/CoderNotes/assets/image-20230804171912246-cd950c82.png",g={},v=a('<h2 id="了解pagingandsortingrepository接口" tabindex="-1"><a class="header-anchor" href="#了解pagingandsortingrepository接口" aria-hidden="true">#</a> 了解PagingAndSortingRepository接口</h2><p>PagingAndSortingRepository继承自CrudRepository接口，那么显然PagingAndSortingRepository就具备了CrudRepository接口的相关的功能，同时也扩展了分页和排序的功能</p><figure><img src="'+r+`" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><div class="language-Java line-numbers-mode" data-ext="Java"><pre class="language-Java"><code>@NoRepositoryBean
+public interface PagingAndSortingRepository&lt;T, ID extends Serializable&gt; extends CrudRepository&lt;T, ID&gt; {
+	//排序的支持
+    Iterable&lt;T&gt; findAll(Sort var1);
+    //分页的支持
+    Page&lt;T&gt; findAll(Pageable var1);
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><blockquote><p>注意 : PagingAndSortingRepository即可仅仅是拓展了排序和分页,是不支持条件查询的</p></blockquote><h2 id="搭建环境" tabindex="-1"><a class="header-anchor" href="#搭建环境" aria-hidden="true">#</a> 搭建环境</h2>`,6),m=a(`<h2 id="使用pagingandsortingrepository接口" tabindex="-1"><a class="header-anchor" href="#使用pagingandsortingrepository接口" aria-hidden="true">#</a> 使用PagingAndSortingRepository接口</h2><h3 id="创建接口" tabindex="-1"><a class="header-anchor" href="#创建接口" aria-hidden="true">#</a> 创建接口</h3><p>StudentDaoByCrudRepository.java 接口 继承 CrudRepository接口</p><div class="language-Java line-numbers-mode" data-ext="Java"><pre class="language-Java"><code>public interface StudentDaoByPageingAndSortingRepository extends CrudRepository&lt;Student, Integer&gt; {
+
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3 id="分页查询" tabindex="-1"><a class="header-anchor" href="#分页查询" aria-hidden="true">#</a> 分页查询</h3><div class="language-Java line-numbers-mode" data-ext="Java"><pre class="language-Java"><code>@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration(&quot;classpath:applicationContext.xml&quot;)
+public class TestDemo07 {
+    @Autowired
+    private StudentDaoByPageingAndSortingRepository peopleDaoByPageingAndSortingRepository;
+    @Test
+    public void testDemo01(){
+        int page = 1; // page:当前分页的索引  从0开始
+        int size = 3; // size:每页显示的条数
+        PageRequest pageRequest = new PageRequest(page, size);
+        Page&lt;Student&gt; pageObject = peopleDaoByPageingAndSortingRepository.findAll(pageRequest);
+        System.out.println(&quot;总的条数:&quot; + pageObject.getTotalElements());
+        System.out.println(&quot;总的页数:&quot; + pageObject.getTotalPages());
+        List&lt;Student&gt; studentList = pageObject.getContent();
+        studentList.forEach(System.out::println);
+    }
+}
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="`+d+`" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure><h3 id="排序查询" tabindex="-1"><a class="header-anchor" href="#排序查询" aria-hidden="true">#</a> 排序查询</h3><div class="language-java line-numbers-mode" data-ext="java"><pre class="language-java"><code><span class="token annotation punctuation">@RunWith</span><span class="token punctuation">(</span><span class="token class-name">SpringJUnit4ClassRunner</span><span class="token punctuation">.</span><span class="token keyword">class</span><span class="token punctuation">)</span>
+<span class="token annotation punctuation">@ContextConfiguration</span><span class="token punctuation">(</span><span class="token string">&quot;classpath:applicationContext.xml&quot;</span><span class="token punctuation">)</span>
+<span class="token keyword">public</span> <span class="token keyword">class</span> <span class="token class-name">TestDemo07</span> <span class="token punctuation">{</span>
+    <span class="token annotation punctuation">@Autowired</span>
+    <span class="token keyword">private</span> <span class="token class-name">StudentDaoByPageingAndSortingRepository</span> peopleDaoByPageingAndSortingRepository<span class="token punctuation">;</span>
+    <span class="token annotation punctuation">@Test</span>
+    <span class="token keyword">public</span> <span class="token keyword">void</span> <span class="token function">testDemo02</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
+        <span class="token class-name">Sort</span> sortById <span class="token operator">=</span> <span class="token keyword">new</span> <span class="token class-name">Sort</span><span class="token punctuation">(</span><span class="token class-name">Sort<span class="token punctuation">.</span>Direction</span><span class="token punctuation">.</span><span class="token constant">DESC</span><span class="token punctuation">,</span> <span class="token string">&quot;stuId&quot;</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+        <span class="token class-name">Iterable</span><span class="token generics"><span class="token punctuation">&lt;</span><span class="token class-name">Student</span><span class="token punctuation">&gt;</span></span> studentList <span class="token operator">=</span> peopleDaoByPageingAndSortingRepository<span class="token punctuation">.</span><span class="token function">findAll</span><span class="token punctuation">(</span>sortById<span class="token punctuation">)</span><span class="token punctuation">;</span>
+        studentList<span class="token punctuation">.</span><span class="token function">forEach</span><span class="token punctuation">(</span><span class="token class-name">System</span><span class="token punctuation">.</span>out<span class="token operator">::</span><span class="token function">println</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
+    <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="`+u+'" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>',10);function b(k,h){const s=t("RouterLink");return i(),o("div",null,[v,p("p",null,[n("请按照开始章节搭建环境 : "),l(s,{to:"/doc/02_%E5%88%9D%E7%BA%A7%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/01_%E7%AC%AC%E4%B8%80%E9%98%B6%E6%AE%B5/05_%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6/06_SpringJPA/03_SpringJPA%E7%9F%A5%E8%AF%86%E7%82%B9/01_%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B/%E5%85%A5%E9%97%A8%E6%A1%88%E4%BE%8B.html"},{default:c(()=>[n("入门案例")]),_:1})]),m])}const A=e(g,[["render",b],["__file","PagingAndSortingRepository接口.html.vue"]]);export{A as default};
