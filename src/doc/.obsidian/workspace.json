@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,12 +218,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6083f453a19947ae",
+  "active": "f30091890c464a7c",
   "lastOpenFiles": [
     "02_初级开发工程师/01_第一阶段/05_基础框架/03_Spring基础/04_Bean的自动注入/Bean的自动注入.md",
     "02_初级开发工程师/01_第一阶段/05_基础框架/02_MyBatisPlus/01_MyBatisPlus快速上手/MyBatisPlus快速上手.md",
